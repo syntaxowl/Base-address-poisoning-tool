@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Filtrowanie i Analiza Adresów</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="filters/filters.css">
+    <script type="text/javascript" src="/eel.js"></script>
+    <script type="text/javascript" src="filters.js" defer></script>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>Filtrowanie i Analiza Adresów</h1>
+
+        <!-- Sekcja 1: Filtrowanie adresów -->
+        <div class="card mb-4">
+            <div class="card-header">Filtrowanie Adresów</div>
+            <div class="card-body">
+                <div class="form-group">
+                    <label>Address</label>
+                    <input type="text" id="address" class="form-control" value="0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913">
+                </div>
+                <div class="form-group">
+                    <label>Minimalna kwota tokenów:</label>
+                    <input type="number" id="minAmount" class="form-control" value="10000">
+                </div>
+                <div class="form-group">
+                    <label>Minimalna liczba transakcji:</label>
+                    <input type="number" id="minTransactions" class="form-control" value="20">
+                </div>
+                <div class="form-group">
+                    <label>Ostatnia transakcja (dni temu):</label>
+                    <input type="number" id="lastDays" class="form-control" value="30">
+                </div>
+                <div class="form-group">
+                    <label>Plik wejściowy:</label>
+                    <input type="text" id="inputFile" class="form-control" value="addresses.txt">
+                </div>
+                <div class="form-group">
+                    <label>Plik wyjściowy:</label>
+                    <input type="text" id="outputFile" class="form-control" value="filtered_addresses.txt">
+                </div>
+                <div class="form-check">
+                    <input type="checkbox" id="fromZero" class="form-check-input">
+                    <label class="form-check-label">Pobierz od zera</label>
+                </div>
+                <button class="btn btn-primary mt-2" onclick="runFilter()">Filtruj</button>
+                <p id="filterResult" class="mt-2"></p>
+            </div>
+        </div>
+
+        <!-- Sekcja 2: Analiza transakcji -->
+        <div class="card">
+            <div class="card-header">Analiza Transakcji</div>
+            <div class="card-body">
+                <div class="form-group">
+                    <label>Plik wejściowy:</label>
+                    <input type="text" id="txInputFile" class="form-control" value="filtered_addresses.txt">
+                </div>
+                <div class="form-group">
+                    <label>Plik wyjściowy (CSV):</label>
+                    <input type="text" id="txOutputCsv" class="form-control" value="results.csv">
+                </div>
+                <div class="form-group">
+                    <label>Minimalna liczba transakcji:</label>
+                    <input type="number" id="txMinTransactions" class="form-control" value="4">
+                </div>
+                <div class="form-group">
+                    <label>Minimalna wysłana kwota:</label>
+                    <input type="number" id="txMinAmountSended" class="form-control" value="2200">
+                </div>
+                <button class="btn btn-primary mt-2" onclick="runAnalysis()">Analizuj</button>
+                <p id="analysisResult" class="mt-2"></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Karty w HTML</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="token_generator/prism/prism.css">
+    <script type="text/javascript" src="/eel.js"></script> <!-- Jeśli używasz Eel -->
+    <script src="script.js" defer></script>
+    <script src="token_generator/token_generator.js" defer></script>
+    <script src="token_generator/prism/prism.js" defer></script>
+    <script src="config/config.js" defer></script>
+    <script src="filters/filters.js" defer></script>
+    <script src="vanity/vanity.js" defer></script>
+    <script src="monitor/monitor.js" defer ></script>
+    <script src="stats/stats.js" defer ></script>
+    
+</head>
+<body>
+    <div class="tab-container">
+        <!-- Nagłówki kart -->
+        <div class="tab-headers">
+            <button class="tab-button active" data-tab="tab1">Karta 1</button>
+            <button class="tab-button" data-tab="tab2">Karta 2</button>
+            <button class="tab-button" data-tab="tab3">Karta 3</button>
+            <button class="tab-button" data-tab="tab4">Karta 4</button>
+            <button class="tab-button" data-tab="tab5">Karta 5</button>
+            <button class="tab-button" data-tab="tab6">Karta 6</button>
+        </div>
+
+        <!-- Kontener na treść kart -->
+        <div class="tab-content" id="tabContent">
+            <!-- Początkowo pusty – treść będzie ładowana dynamicznie -->
+        </div>
+    </div>
+    
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          document.body.style.zoom = "67%";
+        });
+      </script>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+OKLINK_APIKEY = ''
+PRIVATEMM = '4f3edb9a3ab636acba842ce7278b9ac7a6dbb1a3dce0b6fae5dca1c1a25ba8a7'
+BASESCANAPI = ''
+INFURA = ''

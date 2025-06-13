@@ -1,0 +1,741 @@
+[2025-05-22 00:57:08] INFO: 🔴Transakcja wysłana: 0xe46ac814a07bb0d7310097935a3c8165de04f452ca7818654eb662c065d90ce3
+[2025-05-22 00:57:09] INFO: 🔴Transakcja wysłana: 0xe46ac814a07bb0d7310097935a3c8165de04f452ca7818654eb662c065d90ce3
+[2025-05-22 00:57:10] INFO: 🔴Transakcja wysłana: 0x84af7fc182ccd6f360812e3ac3a661ae965dbcf53e514688b93ba2f7ed18907f
+[2025-05-22 00:57:11] INFO: 🔴Transakcja wysłana: 0x84af7fc182ccd6f360812e3ac3a661ae965dbcf53e514688b93ba2f7ed18907f
+[2025-05-22 00:57:12] INFO: 🔴Transakcja wysłana: 0xb895e0aa0b96c60dc2817a60094b74f7f8b013141899b6c745aa97d906856337
+[2025-05-22 00:57:14] INFO: 🔴Transakcja wysłana: 0xf3a8665e1240a399206e85a4ddda414c01045a324192d4d176ed4143ee53cfa9
+[2025-05-22 00:57:15] INFO: 🔴Transakcja wysłana: 0xf3a8665e1240a399206e85a4ddda414c01045a324192d4d176ed4143ee53cfa9
+[2025-05-22 00:57:16] INFO: 🔴Transakcja wysłana: 0x4be7b2ed903289e15cd332d9c73522241ff99a03a095fa60853f6f51ecabbab0
+[2025-05-22 19:10:25] INFO: Transakcja 0x6816cf2b516294447bb8dd66f180def4f4f15af44890c1383afa95747660fb31 niedawno widziana, pomijam.
+[2025-05-22 19:10:25] INFO: Transakcja 0x6816cf2b516294447bb8dd66f180def4f4f15af44890c1383afa95747660fb31 niedawno widziana, pomijam.
+[2025-05-22 19:10:25] INFO: Transakcja 0x154a2431c85dabdf7873a653a6bd94c8c66ed21990b552365f558e4b998f8971 niedawno widziana, pomijam.
+[2025-05-22 19:10:25] INFO: Transakcja 0x154a2431c85dabdf7873a653a6bd94c8c66ed21990b552365f558e4b998f8971 niedawno widziana, pomijam.
+[2025-05-22 19:10:25] INFO: Transakcja 0x154a2431c85dabdf7873a653a6bd94c8c66ed21990b552365f558e4b998f8971 niedawno widziana, pomijam.
+[2025-05-22 19:10:25] INFO: Transakcja 0xc96cd3d59393ed2858dd313752135af8daaa276c66ac7f73d62fbbf3cbfbcd17 niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0x7b62d0d19b6d08f1e2b29159dd687a1386d01c8b9af67a4d560b65ef13062309 niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0x7b62d0d19b6d08f1e2b29159dd687a1386d01c8b9af67a4d560b65ef13062309 niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: ✅ Transfer tokenu: 0x9a21d8f8d0ce01bf3f4198740c1c8ea396da912c → 0xf9a657f8f103d3221553abbf8368c4d8ea0eed90, TX: 0xf761850461b004350bc3169f86f31f34f4bb358fa42cd0dc1c97cd57b79e7768, kwota: 0.113377
+[2025-05-22 19:10:26] INFO: Transakcja 0x3fd680b30cd0fc784d4ed2afb579f85d31737335aaa831b5a80f8c8789cfc037 niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0x3fd680b30cd0fc784d4ed2afb579f85d31737335aaa831b5a80f8c8789cfc037 niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0x3fd680b30cd0fc784d4ed2afb579f85d31737335aaa831b5a80f8c8789cfc037 niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0x3fd680b30cd0fc784d4ed2afb579f85d31737335aaa831b5a80f8c8789cfc037 niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0xfe61924eccd036fbdfd10c8cd3403394d921c9b68a07eec88c8fd86794934b8c niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0xfe61924eccd036fbdfd10c8cd3403394d921c9b68a07eec88c8fd86794934b8c niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0xfe61924eccd036fbdfd10c8cd3403394d921c9b68a07eec88c8fd86794934b8c niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0xfe61924eccd036fbdfd10c8cd3403394d921c9b68a07eec88c8fd86794934b8c niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0xfe61924eccd036fbdfd10c8cd3403394d921c9b68a07eec88c8fd86794934b8c niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0xfe61924eccd036fbdfd10c8cd3403394d921c9b68a07eec88c8fd86794934b8c niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0xfe61924eccd036fbdfd10c8cd3403394d921c9b68a07eec88c8fd86794934b8c niedawno widziana, pomijam.
+[2025-05-22 19:10:26] INFO: Transakcja 0x106043e1666ed5b420a288981c850f3ed0d326f6354ae21f6772d4fa27f3c041 niedawno widziana, pomijam.
+[2025-05-22 19:10:27] INFO: Transakcja 0x4025672f84750e8df346c2f3094a4effb98f17289d53a9c6e0e64a12549adef4 niedawno widziana, pomijam.
+[2025-05-22 19:10:27] INFO: Transakcja 0xf9db2a2c6d7445d97e5bacf97f2ee0e5e1424c16e17f56bf754f1b116a5a7544 niedawno widziana, pomijam.
+[2025-05-22 19:10:27] INFO: Transakcja 0xf9db2a2c6d7445d97e5bacf97f2ee0e5e1424c16e17f56bf754f1b116a5a7544 niedawno widziana, pomijam.
+[2025-05-22 19:10:27] INFO: Transakcja 0xf9db2a2c6d7445d97e5bacf97f2ee0e5e1424c16e17f56bf754f1b116a5a7544 niedawno widziana, pomijam.
+[2025-05-22 19:10:27] INFO: Transakcja 0xf9db2a2c6d7445d97e5bacf97f2ee0e5e1424c16e17f56bf754f1b116a5a7544 niedawno widziana, pomijam.
+[2025-05-22 19:10:29] INFO: ⏳ Transakcja 0xdfc3cb431af801b5564c8d944310ab9396294b7a17f874418b958381523c286a wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:30] INFO: Transakcja 0x6958539e1b59d1a50fba27b3ec00e2ca2e1515b8434a87dacf10dfaf62e93485 niedawno widziana, pomijam.
+[2025-05-22 19:10:30] INFO: ⏳ Transakcja 0x3f163d0dba9a024ff053170d290c6bb7b979b74fc34c5012e995829ccf0dbb7d wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:32] INFO: Transakcja 0x7dce23b55c8e348c778e475b8639d49306f61c7d2cb700e3d52b265ebed62054 niedawno widziana, pomijam.
+[2025-05-22 19:10:32] INFO: ⏳ Transakcja 0xde5d48622e815cb557fe69df63060e0986af0072beb8983f7613aeff0b4e6298 wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:33] INFO: Transakcja 0xde5d48622e815cb557fe69df63060e0986af0072beb8983f7613aeff0b4e6298 niedawno widziana, pomijam.
+[2025-05-22 19:10:33] INFO: Transakcja 0xde5d48622e815cb557fe69df63060e0986af0072beb8983f7613aeff0b4e6298 niedawno widziana, pomijam.
+[2025-05-22 19:10:33] INFO: Transakcja 0xde5d48622e815cb557fe69df63060e0986af0072beb8983f7613aeff0b4e6298 niedawno widziana, pomijam.
+[2025-05-22 19:10:33] INFO: ⏳ Transakcja 0xfcd82c49abc5f86b90353821b5bcf826bac5efe3dd7681a9da124b876881067e wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:35] INFO: ⏳ Transakcja 0xfcd82c49abc5f86b90353821b5bcf826bac5efe3dd7681a9da124b876881067e wciąż w mempoolu. Próba 2/4
+[2025-05-22 19:10:36] INFO: Transakcja 0xfcd82c49abc5f86b90353821b5bcf826bac5efe3dd7681a9da124b876881067e niedawno widziana, pomijam.
+[2025-05-22 19:10:36] INFO: ⏳ Transakcja 0xb7dd23903cbdb365e201112952aad81c361fb2b87630a2e327888d0af0c68451 wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:38] INFO: ⏳ Transakcja 0x7f988d7a2785df8e7c9a320362ba7eec27f57ed4a7b122364cbc46077da5b7db wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:39] INFO: Transakcja 0x7f988d7a2785df8e7c9a320362ba7eec27f57ed4a7b122364cbc46077da5b7db niedawno widziana, pomijam.
+[2025-05-22 19:10:39] INFO: ⏳ Transakcja 0x090bb34552651c6c447c147b89ddbaaf2e528d184b62537d73a74d252f90e2a3 wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:40] INFO: Transakcja 0xfa2d6721f82195527f74c184804ab5a7a6a2eec59c9023f419862e91f4ba9450 niedawno widziana, pomijam.
+[2025-05-22 19:10:40] INFO: Transakcja 0xfa2d6721f82195527f74c184804ab5a7a6a2eec59c9023f419862e91f4ba9450 niedawno widziana, pomijam.
+[2025-05-22 19:10:40] INFO: Transakcja 0xfa2d6721f82195527f74c184804ab5a7a6a2eec59c9023f419862e91f4ba9450 niedawno widziana, pomijam.
+[2025-05-22 19:10:41] INFO: ⏳ Transakcja 0x136164cd25678027817c05f8d39bc998c6a16bf46f73463606e7e41db2543014 wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:42] INFO: ✅ Transfer tokenu: 0x0f55030556b30926f78f73064ff09a0981b5e076 → 0x8eaece78b34d4ad5b2312dae0be94dbab7b495ee, TX: 0xb1ce0232a093ea489561160f9daec4630e293d09282d978f735a9fdde82e9c96, kwota: 2e-06
+[2025-05-22 19:10:42] INFO: ⏳ Transakcja 0x768b1191242b163ec0149163d857c3f1ec9d2cafb5c426bbfc4a717533d43eb2 wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:44] INFO: ✅ Transfer tokenu: 0xf70da97812cb96acdf810712aa562db8dfa3dbef → 0x3855b1c697c9ee5b41f7fa588012f7daad1e4337, TX: 0xea825b21e719e12207ab8cd2e70966416f9993993592ec31144a9a00013cbef1, kwota: 0.066523
+[2025-05-22 19:10:44] INFO: Transakcja 0xfa00c118fed0fc0b3bf29e55667d3952e3f435cb688713afd786cd0a7fa41e0f niedawno widziana, pomijam.
+[2025-05-22 19:10:44] INFO: Transakcja 0xfa00c118fed0fc0b3bf29e55667d3952e3f435cb688713afd786cd0a7fa41e0f niedawno widziana, pomijam.
+[2025-05-22 19:10:44] INFO: Transakcja 0xe0958e1a9850eae42c9d18e29266128d449598d38d69f67ec27df2f6a408b81e niedawno widziana, pomijam.
+[2025-05-22 19:10:44] INFO: ⏳ Transakcja 0xce8414d4b0a754539f453ed24110bd27090ecdd4efe0ca4d70904559ab690af5 wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:46] INFO: ⏳ Transakcja 0xce8414d4b0a754539f453ed24110bd27090ecdd4efe0ca4d70904559ab690af5 wciąż w mempoolu. Próba 2/4
+[2025-05-22 19:10:47] INFO: Transakcja 0xce8414d4b0a754539f453ed24110bd27090ecdd4efe0ca4d70904559ab690af5 niedawno widziana, pomijam.
+[2025-05-22 19:10:47] INFO: Transakcja 0xce8414d4b0a754539f453ed24110bd27090ecdd4efe0ca4d70904559ab690af5 niedawno widziana, pomijam.
+[2025-05-22 19:10:47] INFO: Transakcja 0xce8414d4b0a754539f453ed24110bd27090ecdd4efe0ca4d70904559ab690af5 niedawno widziana, pomijam.
+[2025-05-22 19:10:47] INFO: ✅ Transfer tokenu: 0x6aa861a7cf5c688c83d028480cc228d00ca5df06 → 0x5dfcef60836b8d60b73d90c333e5c20820e94561, TX: 0x434f9cc128fae0efd19849cb1794c7527284a67605e08c22d037a2d5491c25e1, kwota: 0.0002
+[2025-05-22 19:10:47] INFO: ✅ Transfer tokenu: 0x5d8ab0fa4e03fbd2db8cd943e9de85edc07c00b8 → 0xffd2e3838296b46df53146d90c71a652e2086697, TX: 0x76fd237fd084fd2e31fbbdfcf5a480ca234203c55386cab40efe4c3ed9dd71c8, kwota: 0.000614
+[2025-05-22 19:10:48] INFO: ✅ Transfer tokenu: 0x588c435c74623b30297e71245bac3180ab7b2ea4 → 0x2b87ad03ecd04fcb970d8d008c9203c33bb366cc, TX: 0xdb12e1f4f6a4867d87e0266267c82b2667c7a56864e1728316fd83001411cd10, kwota: 0.000126
+[2025-05-22 19:10:48] INFO: ⏳ Transakcja 0x9421a66f2b937924a66bf37edae35f7ad169c6e3ad2e977e8e559551a99647ad wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:49] INFO: ✅ Transfer tokenu: 0x1f0a5d3d80483f737b78595b5ec9d096037a3ae7 → 0x15c02e3c6f6694d84feda8eeadd721c62a2163ff, TX: 0x9421a66f2b937924a66bf37edae35f7ad169c6e3ad2e977e8e559551a99647ad, kwota: 0.00011
+[2025-05-22 19:10:49] INFO: ⏳ Transakcja 0x00a3f230af70b5a5241c07326f8d18385bc324b093c0d86bcc56a5b5c775744c wciąż w mempoolu. Próba 1/4
+[2025-05-22 19:10:50] INFO: Transakcja 0x00a3f230af70b5a5241c07326f8d18385bc324b093c0d86bcc56a5b5c775744c niedawno widziana, pomijam.
+[2025-05-22 19:10:50] INFO: Transakcja 0x1b9082e0482133f1235835697f8d1e4703cc81370a7c11f6fccea38a4a8ad7a2 niedawno widziana, pomijam.
+[2025-05-22 21:21:24] INFO: Transakcja 0x2b46a3cdeb4b6ff6ebadd46142726403e5a67aaf71560ef5e6d3236e85478fe1 niedawno widziana, pomijam.
+[2025-05-22 21:21:24] INFO: Transakcja 0x13c428d216d1c6698c85fffd0188dba5a97075d6421c6841ad4672cf4f3f9844 niedawno widziana, pomijam.
+[2025-05-22 21:21:24] INFO: Transakcja 0x13c428d216d1c6698c85fffd0188dba5a97075d6421c6841ad4672cf4f3f9844 niedawno widziana, pomijam.
+[2025-05-22 21:21:24] INFO: Transakcja 0x13c428d216d1c6698c85fffd0188dba5a97075d6421c6841ad4672cf4f3f9844 niedawno widziana, pomijam.
+[2025-05-22 21:21:24] INFO: Transakcja 0x13c428d216d1c6698c85fffd0188dba5a97075d6421c6841ad4672cf4f3f9844 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x794d17e90b13ca495a0feded1c23dea57916b11bf080b84669914c518b110b62 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x92db5e01aa92da392c487c53327e5e437762d5113db75138fbbbc2db32ffc535 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x92db5e01aa92da392c487c53327e5e437762d5113db75138fbbbc2db32ffc535 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x92db5e01aa92da392c487c53327e5e437762d5113db75138fbbbc2db32ffc535 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: ✅ Transfer tokenu: 0x60a863a731255df3be49327f9726d2658f0d11ff → 0x1e2b12940a9416c4e9d3d7635167a1dc9dd05f3e, TX: 0xb8f84ca7a794663273a3eb67054854eb9878676a73631076e266f864b1fbd4d0, kwota: 0.008611
+[2025-05-22 21:21:25] INFO: Transakcja 0x96ddb7760947b008095d80259f512b93459ef9d785799b268265507b1c54fba1 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x96ddb7760947b008095d80259f512b93459ef9d785799b268265507b1c54fba1 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x96ddb7760947b008095d80259f512b93459ef9d785799b268265507b1c54fba1 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x96ddb7760947b008095d80259f512b93459ef9d785799b268265507b1c54fba1 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x96ddb7760947b008095d80259f512b93459ef9d785799b268265507b1c54fba1 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x96ddb7760947b008095d80259f512b93459ef9d785799b268265507b1c54fba1 niedawno widziana, pomijam.
+[2025-05-22 21:21:25] INFO: Transakcja 0x96ddb7760947b008095d80259f512b93459ef9d785799b268265507b1c54fba1 niedawno widziana, pomijam.
+[2025-05-22 21:21:26] INFO: ✅ Transfer tokenu: 0x7d6a187ae080d0aaff9083861f44e6789cbe9428 → 0xf27efc560ff43cc99b1b030dd9ac7aba1fc3dc6e, TX: 0x042b4e09b05aca9a4e55d2410f957d562e3865d086a1f1e4ba248d0c8913c249, kwota: 0.0007
+[2025-05-22 21:21:27] INFO: ✅ Transfer tokenu: 0xd4f06e802d486cc49449efd76cad1e3044128bdf → 0x9fdd7cf156150c5526e0ee707e042459b6b7f321, TX: 0xb4481906e1ea0e5ce1b8fa06cb204cb67240bd8782b368004d8f85c7b8eec71f, kwota: 0.0001
+[2025-05-22 21:21:27] INFO: ✅ Transfer tokenu: 0xc48aec030ed06d646ae9334bcf4c9316cd0ffdd9 → 0x505dc6685bd1666a11ba664bc6788d56b19e3256, TX: 0xd3cd3ed0a61302abcd55bd113f9d38debe44657a40af160e3a4bc563cbc73811, kwota: 0.0004
+[2025-05-22 21:21:27] INFO: Transakcja 0x48886399cd51593996dddbc9d86c963154d626891a00e06775a92a206dcf78f2 niedawno widziana, pomijam.
+[2025-05-22 21:21:28] INFO: Transakcja 0x5a467b6cf7fce51a48f197028df417cfb699808bf3c910f1f1465688705bf2c4 niedawno widziana, pomijam.
+[2025-05-22 21:21:28] INFO: Transakcja 0x5a467b6cf7fce51a48f197028df417cfb699808bf3c910f1f1465688705bf2c4 niedawno widziana, pomijam.
+[2025-05-22 21:21:28] INFO: Transakcja 0x5a467b6cf7fce51a48f197028df417cfb699808bf3c910f1f1465688705bf2c4 niedawno widziana, pomijam.
+[2025-05-22 21:21:28] INFO: Transakcja 0xd37f91bca99a0163be7d4ac03ac99b1b4be4957d05f1b9940664bbd4eb87a2f0 niedawno widziana, pomijam.
+[2025-05-22 21:21:28] INFO: Transakcja 0xd37f91bca99a0163be7d4ac03ac99b1b4be4957d05f1b9940664bbd4eb87a2f0 niedawno widziana, pomijam.
+[2025-05-22 21:21:29] INFO: Transakcja 0x530f1d13fabc87f0e6b106822bfb5fda5b776a0ffb2d934c20c8d4018b85fa4f niedawno widziana, pomijam.
+[2025-05-22 21:21:29] INFO: Transakcja 0x657d2492bf3eaa412b19a374feb6dfd54425cb515d0a2492fa2d263db441c753 niedawno widziana, pomijam.
+[2025-05-22 21:21:29] INFO: Transakcja 0x657d2492bf3eaa412b19a374feb6dfd54425cb515d0a2492fa2d263db441c753 niedawno widziana, pomijam.
+[2025-05-22 21:21:29] INFO: Transakcja 0x657d2492bf3eaa412b19a374feb6dfd54425cb515d0a2492fa2d263db441c753 niedawno widziana, pomijam.
+[2025-05-22 21:21:29] INFO: Transakcja 0x657d2492bf3eaa412b19a374feb6dfd54425cb515d0a2492fa2d263db441c753 niedawno widziana, pomijam.
+[2025-05-22 21:21:29] INFO: ✅ Transfer tokenu: 0x66687b49f1780bb7d5632a6bf54c5ec1b639b903 → 0x6668b3100dd6d2f637d5ba3a79ab54174c32b903, TX: 0xd2a0654a4e36b91eed1e217224d512dc207f2be57e61ee799b4f0235a62001ab, kwota: 2e-06
+[2025-05-22 21:21:30] INFO: Transakcja 0x66843a3d9a6bb24e5e1437846bffddcf28034213adcae6cdadaa933302a3c0f7 niedawno widziana, pomijam.
+[2025-05-22 21:21:30] INFO: Transakcja 0xeb82b4d733b039890cb40c6793c95692e767612383a4dbe01d6ebf4d8f4cf14a niedawno widziana, pomijam.
+[2025-05-22 21:21:30] INFO: Transakcja 0xeb82b4d733b039890cb40c6793c95692e767612383a4dbe01d6ebf4d8f4cf14a niedawno widziana, pomijam.
+[2025-05-22 21:21:31] INFO: ✅ Transfer tokenu: 0x242e2d70d3adc00a9ef23ced6e88811fcefca788 → 0xa83442d20f5b3794d1fbe5c3f3f905b3eb9b7028, TX: 0xf13f10316a9d8a1ade0ae6775bbd974c3b2b641af50dc43393ea0ec32fce1e49, kwota: 115.637
+[2025-05-22 21:21:31] INFO: Transakcja 0x490fbc20d36715f90a1f01f399f1f1753bf23b0af0c0f9f9d9ec7417f26790a7 niedawno widziana, pomijam.
+[2025-05-22 21:21:31] INFO: ✅ Transfer tokenu: 0xe0d5a87a0528ea5b8a8480a859a136126d561688 → 0xf3add97a1ad5cfaa584cd592540837f3dee411bd, TX: 0x8250cc60435d5c3b42bd3f2fcc186f9789c4ce2ebd30c4f09f921c2a1ccb4952, kwota: 0.0005
+[2025-05-22 21:21:33] INFO: Transakcja 0x7a0684686651c6734dfcbb15376fdb1a61bf55dc49a8b10ee1b0e8c87fa39c99 niedawno widziana, pomijam.
+[2025-05-22 21:21:33] INFO: Transakcja 0x6c2d59aca698fe3faaf9601bf952a26b0661b8eea2755d2020bb002318a5a432 niedawno widziana, pomijam.
+[2025-05-22 21:21:33] INFO: Transakcja 0x56644ed00d04335394472f1db6981446d4791128295623ca1f8995b223e6d49e niedawno widziana, pomijam.
+[2025-05-22 21:21:33] INFO: Transakcja 0x56644ed00d04335394472f1db6981446d4791128295623ca1f8995b223e6d49e niedawno widziana, pomijam.
+[2025-05-22 21:21:33] INFO: Transakcja 0x56644ed00d04335394472f1db6981446d4791128295623ca1f8995b223e6d49e niedawno widziana, pomijam.
+[2025-05-22 21:21:33] INFO: Transakcja 0x56644ed00d04335394472f1db6981446d4791128295623ca1f8995b223e6d49e niedawno widziana, pomijam.
+[2025-05-22 21:21:34] INFO: ✅ Transfer tokenu: 0xf70d055c59c951c22b8dc1afae1001cbf048dbef → 0x6ae5a9b7dc4b06b84930760fc82661fae3823071, TX: 0xd390e9850b83d1fccd26d4139ea73543ec0dcc64ce61a3dd7e70f1ec40791662, kwota: 2e-06
+[2025-05-22 21:21:35] INFO: Transakcja 0x202bd45fafdc00b1eb7c7b14adfc557494ec2e3d96122dd4ef01ec34e8b4c0a0 niedawno widziana, pomijam.
+[2025-05-22 21:21:35] INFO: ✅ Transfer tokenu: 0x89e939b97e60978316974fa339d044afc4136296 → 0x145da61ba8cc5ba8a832795c390b522fd8ac8143, TX: 0x64f641100514f3cb5f4d975b98c771a5c314752a7dcd820193ee2bad65d29865, kwota: 4.0
+[2025-05-22 21:21:35] INFO: ✅ Transfer tokenu: 0x2736a134c88aebd921908f0f534600d05f57b1a4 → 0xe45d1c655c84d4ce8b6816fefff942289f8ee110, TX: 0x327023ebd427ed149bbdc5a55de6159ccd436c2f77f7728c8b249b54294f7d6d, kwota: 6998.5
+[2025-05-22 21:21:35] INFO: Transakcja 0xf49f73322ec311306e09f84943ea230e982fb3a781454b627c547d7f832664c9 niedawno widziana, pomijam.
+[2025-05-22 21:21:35] INFO: Transakcja 0xf49f73322ec311306e09f84943ea230e982fb3a781454b627c547d7f832664c9 niedawno widziana, pomijam.
+[2025-05-22 21:21:35] INFO: Transakcja 0xf49f73322ec311306e09f84943ea230e982fb3a781454b627c547d7f832664c9 niedawno widziana, pomijam.
+[2025-05-22 21:21:35] INFO: Transakcja 0xf49f73322ec311306e09f84943ea230e982fb3a781454b627c547d7f832664c9 niedawno widziana, pomijam.
+[2025-05-22 21:21:35] INFO: ✅ Transfer tokenu: 0xbb85b0434590dd423f9ec7df69a534e7fcc7f647 → 0x34520adcaccb7d698a038831ec00bdd8bcd3942f, TX: 0xba1701506c934e091902ec6e90a2b1285ae0927d97a144ccc2f0e87523d1ce89, kwota: 0.01
+[2025-05-22 21:21:37] INFO: ✅ Transfer tokenu: 0x5cf26b6541397cc70f0578fabcdf760c06cc0989 → 0x83cbf4e4fe60e8c7c70dadb49d97ee6179c4c0d8, TX: 0x55d8f505a6e5463aaa6099b3ff35260370f07339ac6c43f70b0a19dde16e0747, kwota: 5.0
+[2025-05-22 21:21:38] INFO: Transakcja 0xdad6c7eddd1f28e15b34c866319485cbc280c9400456e6945bfa2afb739ef4c8 niedawno widziana, pomijam.
+[2025-05-22 21:21:38] INFO: Transakcja 0xdad6c7eddd1f28e15b34c866319485cbc280c9400456e6945bfa2afb739ef4c8 niedawno widziana, pomijam.
+[2025-05-22 21:21:38] INFO: Transakcja 0xaf5bffd5d2c896a654ee1698944fc84b6b2198190a6775ad73c6c14d2e457a1d niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: Transakcja 0xa067346cd9325f61a4be9268a365200e34a20fa1d0b2f640050ae43a86bce468 niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: Transakcja 0xa067346cd9325f61a4be9268a365200e34a20fa1d0b2f640050ae43a86bce468 niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: Transakcja 0xa067346cd9325f61a4be9268a365200e34a20fa1d0b2f640050ae43a86bce468 niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: Transakcja 0xa067346cd9325f61a4be9268a365200e34a20fa1d0b2f640050ae43a86bce468 niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: Transakcja 0xa067346cd9325f61a4be9268a365200e34a20fa1d0b2f640050ae43a86bce468 niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: Transakcja 0xa067346cd9325f61a4be9268a365200e34a20fa1d0b2f640050ae43a86bce468 niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: Transakcja 0xa067346cd9325f61a4be9268a365200e34a20fa1d0b2f640050ae43a86bce468 niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: ✅ Transfer tokenu: 0x1985ea6e9c68e1c272d8209f3b478ac2fdb25c87 → 0x54f54bf89c36b22b224999277d8b752d32e0917f, TX: 0x7ffbd708b97eb5663c64c5cbb40fd68cf1f8e79776ac6eb94078631eb72de43c, kwota: 5200.0
+[2025-05-22 21:21:39] INFO: Transakcja 0x99f051492a7960573a4d97f88c8f740f9d421c69db21bb51af417ef1cf068961 niedawno widziana, pomijam.
+[2025-05-22 21:21:39] INFO: Transakcja 0x99f051492a7960573a4d97f88c8f740f9d421c69db21bb51af417ef1cf068961 niedawno widziana, pomijam.
+[2025-05-22 21:21:40] INFO: Transakcja 0x6e31863897f878789e8532eef3849149cadb8f5bc54cb83d5765ecb3db9aa1cd niedawno widziana, pomijam.
+[2025-05-22 21:21:40] INFO: Transakcja 0x6e31863897f878789e8532eef3849149cadb8f5bc54cb83d5765ecb3db9aa1cd niedawno widziana, pomijam.
+[2025-05-22 21:21:41] INFO: Transakcja 0xf33be7c09482cb7f106d9e375eeed01a618e8b4d71b86715be3537a9d327302e niedawno widziana, pomijam.
+[2025-05-22 21:21:41] INFO: Transakcja 0xf33be7c09482cb7f106d9e375eeed01a618e8b4d71b86715be3537a9d327302e niedawno widziana, pomijam.
+[2025-05-22 21:21:41] INFO: Transakcja 0xf33be7c09482cb7f106d9e375eeed01a618e8b4d71b86715be3537a9d327302e niedawno widziana, pomijam.
+[2025-05-22 21:21:41] INFO: Transakcja 0xf33be7c09482cb7f106d9e375eeed01a618e8b4d71b86715be3537a9d327302e niedawno widziana, pomijam.
+[2025-05-22 21:21:41] INFO: ✅ Transfer tokenu: 0x3304e22ddaa22bcdc5fca2269b418046ae7b566a → 0x1799e782a126b1490acfee1aa33fe3f563a8272b, TX: 0xd0122ca7f26e5e88a8a33e5663435fef1cb407199768fcca5b7456932b7fa344, kwota: 640.0
+[2025-05-22 21:21:43] INFO: Transakcja 0x24e50348fb609d24e2a0a975e2d2d7fe8795e7a7831f95e0e5c1298ca082ba76 niedawno widziana, pomijam.
+[2025-05-22 21:21:43] INFO: ✅ Transfer tokenu: 0xcf8e0c3aa79c70639f5e031c89d205f995b7a656 → 0xc7b1f3b2909349ff5b370fa4583884089954703d, TX: 0x4523f8f8ba9a2fca3728196c6e31ba29821a836c6a1143491df1d478fed4af4d, kwota: 5.246279
+[2025-05-22 21:22:16] INFO: Transakcja 0x0b52649af7d03979381dab1fbe9917109ed07c63e5ccbc42caa309f6c30a02f8 niedawno widziana, pomijam.
+[2025-05-22 21:22:16] INFO: Transakcja 0x0b52649af7d03979381dab1fbe9917109ed07c63e5ccbc42caa309f6c30a02f8 niedawno widziana, pomijam.
+[2025-05-22 21:22:16] INFO: Transakcja 0x0b52649af7d03979381dab1fbe9917109ed07c63e5ccbc42caa309f6c30a02f8 niedawno widziana, pomijam.
+[2025-05-22 21:22:16] INFO: Transakcja 0x0b52649af7d03979381dab1fbe9917109ed07c63e5ccbc42caa309f6c30a02f8 niedawno widziana, pomijam.
+[2025-05-22 21:22:16] INFO: Transakcja 0xb34285eaa008edc218f84e1438cf20439a49b65b5232f173ff13d15d837da894 niedawno widziana, pomijam.
+[2025-05-22 21:22:16] INFO: Transakcja 0xb34285eaa008edc218f84e1438cf20439a49b65b5232f173ff13d15d837da894 niedawno widziana, pomijam.
+[2025-05-22 21:22:16] INFO: Transakcja 0xb34285eaa008edc218f84e1438cf20439a49b65b5232f173ff13d15d837da894 niedawno widziana, pomijam.
+[2025-05-22 21:22:16] INFO: Transakcja 0xb34285eaa008edc218f84e1438cf20439a49b65b5232f173ff13d15d837da894 niedawno widziana, pomijam.
+[2025-05-22 21:22:17] INFO: Transakcja 0x9a13f01d141901d5b8ea449b8724bc5ea3becb4850a661369e0d8de9f3b15fc8 niedawno widziana, pomijam.
+[2025-05-22 21:22:17] INFO: Transakcja 0x9a13f01d141901d5b8ea449b8724bc5ea3becb4850a661369e0d8de9f3b15fc8 niedawno widziana, pomijam.
+[2025-05-22 21:22:17] INFO: Transakcja 0x9a13f01d141901d5b8ea449b8724bc5ea3becb4850a661369e0d8de9f3b15fc8 niedawno widziana, pomijam.
+[2025-05-22 21:22:17] INFO: Transakcja 0x9a13f01d141901d5b8ea449b8724bc5ea3becb4850a661369e0d8de9f3b15fc8 niedawno widziana, pomijam.
+[2025-05-22 21:22:17] INFO: ✅ Transfer tokenu: 0x039b4234019fa7b205b2cb27e5b51bee07da98b1 → 0xd4bf6958538f26266ef2a32db47d296323734b5a, TX: 0x5bf040c8a1df493f57ba341ecdc7828145e30caf79d1705fd0e9b941333502e8, kwota: 5.0
+[2025-05-22 21:22:24] INFO: Transakcja 0x993a4744594ce36a375b3a6eb5334f93eafc1c56763c6892c8d97dbd3a0c70dd niedawno widziana, pomijam.
+[2025-05-22 21:22:24] INFO: Transakcja 0x3b8cb4777833130fa4c93a4cd27f828798151ce8362d47834443cb8a1f245fd2 niedawno widziana, pomijam.
+[2025-05-22 21:22:24] INFO: Transakcja 0x3b8cb4777833130fa4c93a4cd27f828798151ce8362d47834443cb8a1f245fd2 niedawno widziana, pomijam.
+[2025-05-22 21:22:24] INFO: ✅ Transfer tokenu: 0x0f55030556b30926f78f73064ff09a0981b5e076 → 0x555ea74f54a0507b06ccb1c6fa061a5e956422a5, TX: 0x45e3130c4b85feb87bc92170961ad533d10a52f10f57fea47b6d11782bb0c780, kwota: 2e-06
+[2025-05-22 22:29:03] INFO: Transakcja 0x651855360ff9d1d815143a1094064ca2886fd00bc84580baea99bd9a404aadc4 niedawno widziana, pomijam.
+[2025-05-22 22:29:03] INFO: Transakcja 0x53affa02439d756509ec9ee128b9eb72be0e1950c126162f3a319e6151185610 niedawno widziana, pomijam.
+[2025-05-22 22:29:03] INFO: Transakcja 0x66b45835c73418b7e8310812d3356187e063cf4558e2fd254866bedbda855f7e niedawno widziana, pomijam.
+[2025-05-22 22:29:03] INFO: Transakcja 0x66b45835c73418b7e8310812d3356187e063cf4558e2fd254866bedbda855f7e niedawno widziana, pomijam.
+[2025-05-22 22:29:04] INFO: Transakcja 0x84b2787057bdc80f745ac0e3a7978d797e107afbad7a10d3d79f757bef51a60e niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0x01b095dde91dda94b6e1a758e9987f61dc54eb6f71d5add5d8eb3e07ea3fbba6 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xd91f948283b9961f5a031edac1402c2e6403940b5ed782ccc9b63ee178f0d372 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xd91f948283b9961f5a031edac1402c2e6403940b5ed782ccc9b63ee178f0d372 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xd91f948283b9961f5a031edac1402c2e6403940b5ed782ccc9b63ee178f0d372 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xd91f948283b9961f5a031edac1402c2e6403940b5ed782ccc9b63ee178f0d372 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xd91f948283b9961f5a031edac1402c2e6403940b5ed782ccc9b63ee178f0d372 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xd91f948283b9961f5a031edac1402c2e6403940b5ed782ccc9b63ee178f0d372 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xd91f948283b9961f5a031edac1402c2e6403940b5ed782ccc9b63ee178f0d372 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0x96cb1581da3fd1daa77b9a9513aa09821d414edec1c5493c63f5105257e8a145 niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xaeafc344a7a9c01c84ed2c9b40a887a7d872cf4a8103e3a767b222f81b3995ba niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xaeafc344a7a9c01c84ed2c9b40a887a7d872cf4a8103e3a767b222f81b3995ba niedawno widziana, pomijam.
+[2025-05-22 22:29:05] INFO: Transakcja 0xaeafc344a7a9c01c84ed2c9b40a887a7d872cf4a8103e3a767b222f81b3995ba niedawno widziana, pomijam.
+[2025-05-22 22:29:06] INFO: Transakcja 0x8b4b6db46733d047705731dd11f289abcf1f21a88599100ed7ca0eb61f1837ae niedawno widziana, pomijam.
+[2025-05-22 22:29:06] INFO: ✅ Transfer tokenu: 0x8d5044d9ee7cec41eeebef12b749e62e2ab9f131 → 0x530edc77a09605c922e9adceab6f4f7978aedb64, TX: 0x6f0d7db182bd6f7c53a02185c0e9e043d0ed40ee403017b974201514c2922080, kwota: 0.01
+[2025-05-22 22:29:07] INFO: Transakcja 0x3941b4a1fe5784ee996a2684506d25d6767a0f796ba67492d198ab84dd1e7b7c niedawno widziana, pomijam.
+[2025-05-22 22:29:07] INFO: ✅ Transfer tokenu: 0xf70d055c59c951c22b8dc1afae1001cbf048dbef → 0x5e4d73284d605516a2e369ed24668ac765ebd2d2, TX: 0xc95eacbc769d51edaa15f4f8b784ef62d5d3832a65211baf48e22ef25d695cf0, kwota: 2e-06
+[2025-05-22 22:29:07] INFO: Transakcja 0xd5e31e7e1f79f36b0bfcb87fce9001f055453cf84883ff4683ffdf2210b66e6c niedawno widziana, pomijam.
+[2025-05-22 22:29:07] INFO: Transakcja 0xd5e31e7e1f79f36b0bfcb87fce9001f055453cf84883ff4683ffdf2210b66e6c niedawno widziana, pomijam.
+[2025-05-22 22:29:07] INFO: Transakcja 0xd5e31e7e1f79f36b0bfcb87fce9001f055453cf84883ff4683ffdf2210b66e6c niedawno widziana, pomijam.
+[2025-05-22 22:29:07] INFO: Transakcja 0xd5e31e7e1f79f36b0bfcb87fce9001f055453cf84883ff4683ffdf2210b66e6c niedawno widziana, pomijam.
+[2025-05-22 22:29:07] INFO: Transakcja 0xd5e31e7e1f79f36b0bfcb87fce9001f055453cf84883ff4683ffdf2210b66e6c niedawno widziana, pomijam.
+[2025-05-22 22:29:07] INFO: Transakcja 0xd5e31e7e1f79f36b0bfcb87fce9001f055453cf84883ff4683ffdf2210b66e6c niedawno widziana, pomijam.
+[2025-05-22 22:29:07] INFO: Transakcja 0xd5e31e7e1f79f36b0bfcb87fce9001f055453cf84883ff4683ffdf2210b66e6c niedawno widziana, pomijam.
+[2025-05-22 22:29:07] INFO: Transakcja 0xd5e31e7e1f79f36b0bfcb87fce9001f055453cf84883ff4683ffdf2210b66e6c niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x2f5631ca36fa3f79f9585cedb44c3ec7c77bc661319098013d5a3a804cb6c1cf niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x2f5631ca36fa3f79f9585cedb44c3ec7c77bc661319098013d5a3a804cb6c1cf niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x2f5631ca36fa3f79f9585cedb44c3ec7c77bc661319098013d5a3a804cb6c1cf niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x2f5631ca36fa3f79f9585cedb44c3ec7c77bc661319098013d5a3a804cb6c1cf niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:08] INFO: Transakcja 0x29875c569cf646003a056c9be59687b7e7c80d338e1f08d46693e8ad4255cbf3 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x609386ba81f73e44669d69c467d4517e48007b9466ca320b7941bd32a8415bf1 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x609386ba81f73e44669d69c467d4517e48007b9466ca320b7941bd32a8415bf1 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x609386ba81f73e44669d69c467d4517e48007b9466ca320b7941bd32a8415bf1 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0xdc142a8b7eb93c71b60a4d60083032db3996ee15889dcacda8f14f60b5837d3e niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x77f3a951e95a56ee4006d57b36bddefee64acc65db37e0fc982378a86dd24aa6 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x77f3a951e95a56ee4006d57b36bddefee64acc65db37e0fc982378a86dd24aa6 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x77f3a951e95a56ee4006d57b36bddefee64acc65db37e0fc982378a86dd24aa6 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x77f3a951e95a56ee4006d57b36bddefee64acc65db37e0fc982378a86dd24aa6 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x77f3a951e95a56ee4006d57b36bddefee64acc65db37e0fc982378a86dd24aa6 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x77f3a951e95a56ee4006d57b36bddefee64acc65db37e0fc982378a86dd24aa6 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x77f3a951e95a56ee4006d57b36bddefee64acc65db37e0fc982378a86dd24aa6 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x67f464d4a81d123ec48b2e33340f9e2d756308c588d25ffe33a63eb25221a091 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x163a5136e686426bd55f75cd9d7687b87bd9b5d1d2f2c24a870097ead5135643 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x163a5136e686426bd55f75cd9d7687b87bd9b5d1d2f2c24a870097ead5135643 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x163a5136e686426bd55f75cd9d7687b87bd9b5d1d2f2c24a870097ead5135643 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x163a5136e686426bd55f75cd9d7687b87bd9b5d1d2f2c24a870097ead5135643 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x163a5136e686426bd55f75cd9d7687b87bd9b5d1d2f2c24a870097ead5135643 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x163a5136e686426bd55f75cd9d7687b87bd9b5d1d2f2c24a870097ead5135643 niedawno widziana, pomijam.
+[2025-05-22 22:29:09] INFO: Transakcja 0x163a5136e686426bd55f75cd9d7687b87bd9b5d1d2f2c24a870097ead5135643 niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x9023c8ff806353667ddc9e3db80b85c57665751624ff0a0a3f78a1f71b0ecbc2 niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x9023c8ff806353667ddc9e3db80b85c57665751624ff0a0a3f78a1f71b0ecbc2 niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0xdb59d983542cb5b98c241e59ab7966205cf5463e21b440651c7a899b51736a21 niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0xdb59d983542cb5b98c241e59ab7966205cf5463e21b440651c7a899b51736a21 niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:10] INFO: Transakcja 0x3cd23895d81ae92fed05908040b96bbbbe7c56d9944dfdcd2a2a1efe381a664d niedawno widziana, pomijam.
+[2025-05-22 22:29:11] INFO: ✅ Transfer tokenu: 0x00c235c1cf3b3885df4ee3449c78416389a728e9 → 0xb43c1981d57161dcb077ee4bcbb2d376b577a857, TX: 0xafe5f99cfd5e80a054b173778b8905f4f26e89193df10e1013e823404865ada4, kwota: 326.485732
+[2025-05-22 22:29:11] INFO: Transakcja 0x7856bf016b44aa5c7c591816773340e6fe7245a0c4f34bc6df4828e9a7e20d81 niedawno widziana, pomijam.
+[2025-05-22 22:29:11] INFO: Transakcja 0x98f526cda81b6611a56f8c431581470b0eb791606b91103935db6fe3aba23936 niedawno widziana, pomijam.
+[2025-05-22 22:29:11] INFO: ✅ Transfer tokenu: 0x8f95495f8f46b615cee87893963a0b8db35d219e → 0x272042631301f36b9af13839099b419b981398d9, TX: 0x7d58826d8c3452c6ed9314d2e43be559710ef4dad2cbc60b53e7dac8c660c6e9, kwota: 44.41
+[2025-05-22 22:29:13] INFO: Transakcja 0xa6f32a08e4a89cd23e69a10c4daedb0beb3410a03ee96e029214090029aa0fb2 niedawno widziana, pomijam.
+[2025-05-22 22:29:13] INFO: Transakcja 0xa6f32a08e4a89cd23e69a10c4daedb0beb3410a03ee96e029214090029aa0fb2 niedawno widziana, pomijam.
+[2025-05-22 22:29:13] INFO: Transakcja 0xa6f32a08e4a89cd23e69a10c4daedb0beb3410a03ee96e029214090029aa0fb2 niedawno widziana, pomijam.
+[2025-05-22 22:29:13] INFO: Transakcja 0xa6f32a08e4a89cd23e69a10c4daedb0beb3410a03ee96e029214090029aa0fb2 niedawno widziana, pomijam.
+[2025-05-22 22:29:13] INFO: Transakcja 0xa6f32a08e4a89cd23e69a10c4daedb0beb3410a03ee96e029214090029aa0fb2 niedawno widziana, pomijam.
+[2025-05-22 22:29:14] INFO: Transakcja 0xca5ac4d607360360f67c136266185293123c6339d6bb275b1861b4e35c0cb79c niedawno widziana, pomijam.
+[2025-05-22 22:29:14] INFO: Transakcja 0xca5ac4d607360360f67c136266185293123c6339d6bb275b1861b4e35c0cb79c niedawno widziana, pomijam.
+[2025-05-22 22:29:14] INFO: Transakcja 0xa3b1c5c71a203da30b1f07077615656666b063c4d016ba8e6fa4dfa48c2c2ece niedawno widziana, pomijam.
+[2025-05-22 22:29:14] INFO: Transakcja 0xa3b1c5c71a203da30b1f07077615656666b063c4d016ba8e6fa4dfa48c2c2ece niedawno widziana, pomijam.
+[2025-05-22 22:29:15] INFO: Transakcja 0xb3c1a90007274a8038edf90c95fca3ba57b02ceef0dd1e518b1ab9352cb24539 niedawno widziana, pomijam.
+[2025-05-22 22:29:15] INFO: Transakcja 0xeaaa221dfa3e1d6fcbdc995f6f3f2fdf3b9c0f926b0ec47aab439b31a014110a niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: ✅ Transfer tokenu: 0xc8802feab2fafb48b7d1ade77e197002c210f391 → 0xc4086f5519e96bf1061abe02eaaea29283aecd75, TX: 0xb11a8e72fd94c21254974d9bf9e69a2f6a5771ea4b0f412850e98db84f127d78, kwota: 16.8
+[2025-05-22 22:29:16] INFO: Transakcja 0x6d8a6b7859fdc88ddb4df7e240c5bca40633adf3254e6bca89cb86490f696401 niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: Transakcja 0x6d8a6b7859fdc88ddb4df7e240c5bca40633adf3254e6bca89cb86490f696401 niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: Transakcja 0x6d8a6b7859fdc88ddb4df7e240c5bca40633adf3254e6bca89cb86490f696401 niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: Transakcja 0x756a8fa1afc5995347385d5169559135f1b1f73625321cb0b6ec3cf1998fe0f3 niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: Transakcja 0x756a8fa1afc5995347385d5169559135f1b1f73625321cb0b6ec3cf1998fe0f3 niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: Transakcja 0xf682134b604aa0045a15c3e6615d63a8ca1d07e3ec63ba6c35b5a2eb748c22bc niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: Transakcja 0xf682134b604aa0045a15c3e6615d63a8ca1d07e3ec63ba6c35b5a2eb748c22bc niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: Transakcja 0xf682134b604aa0045a15c3e6615d63a8ca1d07e3ec63ba6c35b5a2eb748c22bc niedawno widziana, pomijam.
+[2025-05-22 22:29:16] INFO: Transakcja 0xf682134b604aa0045a15c3e6615d63a8ca1d07e3ec63ba6c35b5a2eb748c22bc niedawno widziana, pomijam.
+[2025-05-22 22:29:17] INFO: ✅ Transfer tokenu: 0xf9a61c74a0402a6fa68731dd5116fc1f5401ed90 → 0x11d84eac81ec0ca52b40ba68e645d0923c937bd8, TX: 0x1be58622853a30c6c246362212b49720143802af7e49cfabb0cedcba9af2b488, kwota: 2e-06
+[2025-05-22 22:29:17] INFO: Transakcja 0x9974b143ae954e4717e210b43f14216a53a3d1ca32168f251ccef3af51f2511d niedawno widziana, pomijam.
+[2025-05-22 23:01:45] INFO: Transakcja 0xefc07641c7a82bdaab3d29540e706e4b752f5ec827326fa5a998836b6566460c niedawno widziana, pomijam.
+[2025-05-22 23:01:45] INFO: Transakcja 0xefc07641c7a82bdaab3d29540e706e4b752f5ec827326fa5a998836b6566460c niedawno widziana, pomijam.
+[2025-05-22 23:01:45] INFO: Transakcja 0xefc07641c7a82bdaab3d29540e706e4b752f5ec827326fa5a998836b6566460c niedawno widziana, pomijam.
+[2025-05-22 23:01:46] INFO: Transakcja 0xfa3ff18e55fc419ed13577f88ac77378c1c191b20d79df118504b1d2d068c641 niedawno widziana, pomijam.
+[2025-05-22 23:01:47] INFO: Transakcja 0x9d292535cea8e91a856b4887bbecc5f8605738992b4b3378325f90a6b7dc2d5c niedawno widziana, pomijam.
+[2025-05-22 23:01:47] INFO: Transakcja 0x9d292535cea8e91a856b4887bbecc5f8605738992b4b3378325f90a6b7dc2d5c niedawno widziana, pomijam.
+[2025-05-22 23:01:48] INFO: Transakcja 0xa895adb9fe098ca8e51f30e83a02a044a72d2ccc8a653ce6754bdbd3145fc2c3 niedawno widziana, pomijam.
+[2025-05-22 23:01:48] INFO: Transakcja 0x4caaf69085ee7d64a098bd08f7cac2ce4044e88bedd7b65da53014256baa769f niedawno widziana, pomijam.
+[2025-05-22 23:01:48] INFO: Transakcja 0x4caaf69085ee7d64a098bd08f7cac2ce4044e88bedd7b65da53014256baa769f niedawno widziana, pomijam.
+[2025-05-22 23:01:48] INFO: Transakcja 0x4caaf69085ee7d64a098bd08f7cac2ce4044e88bedd7b65da53014256baa769f niedawno widziana, pomijam.
+[2025-05-22 23:01:49] INFO: Transakcja 0xf24e8535c06e058c27a16218759b3ee7005e94a946aa554539a15580f5b85489 niedawno widziana, pomijam.
+[2025-05-22 23:01:49] INFO: Transakcja 0xf24e8535c06e058c27a16218759b3ee7005e94a946aa554539a15580f5b85489 niedawno widziana, pomijam.
+[2025-05-22 23:01:49] INFO: Transakcja 0xf24e8535c06e058c27a16218759b3ee7005e94a946aa554539a15580f5b85489 niedawno widziana, pomijam.
+[2025-05-22 23:01:49] INFO: ✅ Transfer tokenu: 0x0780cf08b9a5504a828e666ff38f90e49653560f → 0xcc6ccbfae8f7a1a91ae7311fd685c7c4e4d1535d, TX: 0xddd650a6b46ab47ba4557e8605d3586415418ba6c5c4dafd99360f4875a7fbd6, kwota: 20.67
+[2025-05-22 23:01:50] INFO: Transakcja 0xeced3e4245a66991c227943b7f67c43808fc66a8bb4e17f797ddcf5fa35ff7c4 niedawno widziana, pomijam.
+[2025-05-22 23:01:50] INFO: Transakcja 0xeced3e4245a66991c227943b7f67c43808fc66a8bb4e17f797ddcf5fa35ff7c4 niedawno widziana, pomijam.
+[2025-05-22 23:01:50] INFO: Transakcja 0xeced3e4245a66991c227943b7f67c43808fc66a8bb4e17f797ddcf5fa35ff7c4 niedawno widziana, pomijam.
+[2025-05-22 23:01:50] INFO: Transakcja 0xeced3e4245a66991c227943b7f67c43808fc66a8bb4e17f797ddcf5fa35ff7c4 niedawno widziana, pomijam.
+[2025-05-22 23:01:50] INFO: ✅ Transfer tokenu: 0x0f55030556b30926f78f73064ff09a0981b5e076 → 0xfecbf91029d14d552d538882b2b2022d373de1f5, TX: 0xc01c71c45415c250fa680b5aafecb08d6fd7ef69eb2f09f2cf1b60a2a6be5dae, kwota: 2e-06
+[2025-05-22 23:01:50] INFO: ✅ Transfer tokenu: 0x32b8b43fd56441c1f485fbdbc50e43ecea4c2055 → 0xe0ef47c58288909eaf5df3936a3efbda76a7e497, TX: 0xd8b5a68e12d9397d6b59c1a25c78c02341c7be51c16f9caa38a8e0ac88aed892, kwota: 380.0
+[2025-05-22 23:01:51] INFO: Transakcja 0x822d35c0af8e0312ac3ae462469fca60bf133eb25db9aa622d41cb80bae912ae niedawno widziana, pomijam.
+[2025-05-22 23:01:51] INFO: Transakcja 0xa4594205500889bd01940e0ca1f48a9fbbe96bc2e7860d6edf08c46075df7be7 niedawno widziana, pomijam.
+[2025-05-22 23:01:51] INFO: Transakcja 0xa4594205500889bd01940e0ca1f48a9fbbe96bc2e7860d6edf08c46075df7be7 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0xa4594205500889bd01940e0ca1f48a9fbbe96bc2e7860d6edf08c46075df7be7 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0xa4594205500889bd01940e0ca1f48a9fbbe96bc2e7860d6edf08c46075df7be7 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x30af09a45fdf5437698c1f61f51f468939f493cee9d4e809dc370dfc833a334e niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x30af09a45fdf5437698c1f61f51f468939f493cee9d4e809dc370dfc833a334e niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x30af09a45fdf5437698c1f61f51f468939f493cee9d4e809dc370dfc833a334e niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x30af09a45fdf5437698c1f61f51f468939f493cee9d4e809dc370dfc833a334e niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x30af09a45fdf5437698c1f61f51f468939f493cee9d4e809dc370dfc833a334e niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x30af09a45fdf5437698c1f61f51f468939f493cee9d4e809dc370dfc833a334e niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x30af09a45fdf5437698c1f61f51f468939f493cee9d4e809dc370dfc833a334e niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x89e0bb5bd2b76535305c36881aa219cd2b944f6e47496a2fe735105dba735af0 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x89e0bb5bd2b76535305c36881aa219cd2b944f6e47496a2fe735105dba735af0 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x89e0bb5bd2b76535305c36881aa219cd2b944f6e47496a2fe735105dba735af0 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x89e0bb5bd2b76535305c36881aa219cd2b944f6e47496a2fe735105dba735af0 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x69e597d8a5970160ddbcd90a549b6d499ba18fedac7c415facce98f946d3c86f niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0x69e597d8a5970160ddbcd90a549b6d499ba18fedac7c415facce98f946d3c86f niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0xe0a85265e53cbed01cc091e8f8997a4dc45a4b7b761785f8de480de43f7d5ea9 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0xe0a85265e53cbed01cc091e8f8997a4dc45a4b7b761785f8de480de43f7d5ea9 niedawno widziana, pomijam.
+[2025-05-22 23:01:52] INFO: Transakcja 0xa05008118a8faa57f2a6f93a5be99722de46a3992b9e9b9bce689eb8b89ba151 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: ✅ Transfer tokenu: 0x344b6818bd4ccc8e27dc5852288638409d700897 → 0x2736a134c88aebd921908f0f534600d05f57b1a4, TX: 0x67b6e3972001e5612b09185c5f877d876962f26c11d4ebea6f0d5771aa8549f5, kwota: 82.4
+[2025-05-22 23:01:53] INFO: Transakcja 0xe47a432300939886ce58b1bf7f2c8d37988ad55db7e1daed3bfc3f7fddb217e4 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: Transakcja 0xe47a432300939886ce58b1bf7f2c8d37988ad55db7e1daed3bfc3f7fddb217e4 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: Transakcja 0xe47a432300939886ce58b1bf7f2c8d37988ad55db7e1daed3bfc3f7fddb217e4 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: Transakcja 0xe47a432300939886ce58b1bf7f2c8d37988ad55db7e1daed3bfc3f7fddb217e4 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: Transakcja 0xfe055c79a9e020b92bd934cdd007925caf1256e74f488d2bd2bc8d477745b2b8 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: Transakcja 0xfe055c79a9e020b92bd934cdd007925caf1256e74f488d2bd2bc8d477745b2b8 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: Transakcja 0xfe055c79a9e020b92bd934cdd007925caf1256e74f488d2bd2bc8d477745b2b8 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: Transakcja 0xfe055c79a9e020b92bd934cdd007925caf1256e74f488d2bd2bc8d477745b2b8 niedawno widziana, pomijam.
+[2025-05-22 23:01:53] INFO: ✅ Transfer tokenu: 0x32b8b43fd56441c1f485fbdbc50e43ecea4c2055 → 0x4d3f5cbd4c45960f5498cc51524d7bdf54423659, TX: 0x38ee5710f1b2396514c0775d1b0153aaccff162e2c06ca1e1f6375fab01c9f2a, kwota: 380.0
+[2025-05-22 23:01:54] INFO: ✅ Transfer tokenu: 0xf1ba82c247cc45775ff9f2dd89124a0571427736 → 0xcb6eb98d0533dd42367cd064fc5b988814187527, TX: 0xd24a56496ac2ba71140cec4505d7976e0dc0eeb824210728673ca83e95f9ae9e, kwota: 0.017469
+[2025-05-22 23:01:58] INFO: Transakcja 0xa4fd8af3163af9583aede8c5c75c8dd5a5cc768f3bb4607932868c355adc2424 niedawno widziana, pomijam.
+[2025-05-22 23:01:58] INFO: Transakcja 0xa4fd8af3163af9583aede8c5c75c8dd5a5cc768f3bb4607932868c355adc2424 niedawno widziana, pomijam.
+[2025-05-22 23:01:58] INFO: Transakcja 0xa4fd8af3163af9583aede8c5c75c8dd5a5cc768f3bb4607932868c355adc2424 niedawno widziana, pomijam.
+[2025-05-22 23:01:59] INFO: ✅ Transfer tokenu: 0x0780cf08b9a5504a828e666ff38f90e49653560f → 0xb82701b3e44d6e7b9abe66619727c296026db41b, TX: 0xe1164f3b8f80c7729654845088f2dcd5f5d72611d7a1c8b5a4126bb8fe5236a6, kwota: 604.35
+[2025-05-22 23:02:00] INFO: Transakcja 0x78e7057ac2c0788e7a76507aa1207fa230a57d4623df3fbb172883ab25c3b849 niedawno widziana, pomijam.
+[2025-05-22 23:02:01] INFO: Transakcja 0x0107f755434cab10a91fbb3d9a7772c471c784e06188bf474229c2c92c4f5a96 niedawno widziana, pomijam.
+[2025-05-22 23:02:01] INFO: Transakcja 0x0107f755434cab10a91fbb3d9a7772c471c784e06188bf474229c2c92c4f5a96 niedawno widziana, pomijam.
+[2025-05-22 23:02:01] INFO: Transakcja 0x0107f755434cab10a91fbb3d9a7772c471c784e06188bf474229c2c92c4f5a96 niedawno widziana, pomijam.
+[2025-05-22 23:02:01] INFO: Transakcja 0x0107f755434cab10a91fbb3d9a7772c471c784e06188bf474229c2c92c4f5a96 niedawno widziana, pomijam.
+[2025-05-22 23:02:02] INFO: Transakcja 0xc623940f6cc99a5b3e2486051364d768be62de82836e23f469643faab3be074b niedawno widziana, pomijam.
+[2025-05-22 23:02:02] INFO: Transakcja 0xc623940f6cc99a5b3e2486051364d768be62de82836e23f469643faab3be074b niedawno widziana, pomijam.
+[2025-05-22 23:02:02] INFO: Transakcja 0xc623940f6cc99a5b3e2486051364d768be62de82836e23f469643faab3be074b niedawno widziana, pomijam.
+[2025-05-22 23:02:02] INFO: Transakcja 0xc381ac124e3c2635c7d82c1ac517cef18141d08996fad91a5483b993cfa570df niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: Transakcja 0xfa6a0caa4f131fedd8e40fb355bcd481718487e8d4f79b2a59d6f56f2bae0ae5 niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: Transakcja 0xfa6a0caa4f131fedd8e40fb355bcd481718487e8d4f79b2a59d6f56f2bae0ae5 niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: Transakcja 0xfa6a0caa4f131fedd8e40fb355bcd481718487e8d4f79b2a59d6f56f2bae0ae5 niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: Transakcja 0x9544f9920c89bcc877f8b148ed2cf55e5b082dea86897c20171f8691755e5ad3 niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: Transakcja 0x9544f9920c89bcc877f8b148ed2cf55e5b082dea86897c20171f8691755e5ad3 niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: Transakcja 0x9544f9920c89bcc877f8b148ed2cf55e5b082dea86897c20171f8691755e5ad3 niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: Transakcja 0x9544f9920c89bcc877f8b148ed2cf55e5b082dea86897c20171f8691755e5ad3 niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: ✅ Transfer tokenu: 0x1985ea6e9c68e1c272d8209f3b478ac2fdb25c87 → 0x4724c33e5386c38bf3a7c50d39f96f466848bbf4, TX: 0x359015e0a471e9f6758a7a26e0d897413e710b6a1961cf00a39d23003a395c62, kwota: 310.924889
+[2025-05-22 23:02:03] INFO: Transakcja 0x41b472491fc86aec08f66cd45ce7632450428ff0f8265c1951263dae4ffc2a97 niedawno widziana, pomijam.
+[2025-05-22 23:02:03] INFO: Transakcja 0xe5ad63b4da89aee482226914fa9c5e2be024c46b88c1d55e70363fdd7297d946 niedawno widziana, pomijam.
+[2025-05-22 23:02:04] INFO: Transakcja 0x2b4671a58bbe5811a2c66032154700275ec89de4f243ae94fd97c5ba39ddf362 niedawno widziana, pomijam.
+[2025-05-22 23:02:08] INFO: Transakcja 0x065fb2e2bee2e2659701fe7948a7219deb822ada5339c38efb660f8c75fe2cfd niedawno widziana, pomijam.
+[2025-05-22 23:02:08] INFO: Transakcja 0x065fb2e2bee2e2659701fe7948a7219deb822ada5339c38efb660f8c75fe2cfd niedawno widziana, pomijam.
+[2025-05-22 23:02:08] INFO: Transakcja 0x065fb2e2bee2e2659701fe7948a7219deb822ada5339c38efb660f8c75fe2cfd niedawno widziana, pomijam.
+[2025-05-22 23:02:08] INFO: Transakcja 0x065fb2e2bee2e2659701fe7948a7219deb822ada5339c38efb660f8c75fe2cfd niedawno widziana, pomijam.
+[2025-05-22 23:02:08] INFO: Transakcja 0x065fb2e2bee2e2659701fe7948a7219deb822ada5339c38efb660f8c75fe2cfd niedawno widziana, pomijam.
+[2025-05-22 23:02:08] INFO: Transakcja 0x6e0258815c56abd39de19469dc81b324876460644fe728effb0bcea25d00ef4d niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: ✅ Transfer tokenu: 0xf99e72b65ae003b218380a0a60e1947c4f6ecdc9 → 0xb0f03d87e8a052ddfcd7a17276ef3c10ceff29a2, TX: 0xc33b7fbb6f0f1a3874c0e52140cf175c2da9b8064aea62a8e68d4da8739879cf, kwota: 91.27
+[2025-05-22 23:02:09] INFO: Transakcja 0x56edfd694cc0692882e98c663dc7ffd002114fcb42b1f3e601574fccef41297a niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: Transakcja 0x56edfd694cc0692882e98c663dc7ffd002114fcb42b1f3e601574fccef41297a niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: Transakcja 0x56edfd694cc0692882e98c663dc7ffd002114fcb42b1f3e601574fccef41297a niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: Transakcja 0x05ce676ed48ee358e5003dc8ed4908c7cff5edcdd4ab8b985a420af5a7ef052d niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: Transakcja 0x05ce676ed48ee358e5003dc8ed4908c7cff5edcdd4ab8b985a420af5a7ef052d niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: Transakcja 0x05ce676ed48ee358e5003dc8ed4908c7cff5edcdd4ab8b985a420af5a7ef052d niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: Transakcja 0x05ce676ed48ee358e5003dc8ed4908c7cff5edcdd4ab8b985a420af5a7ef052d niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: Transakcja 0xf0d1dee1ec2bc2c81ed25edcac474dd7f6f5e48ce3b881f6a26c3f2f6fc14c30 niedawno widziana, pomijam.
+[2025-05-22 23:02:09] INFO: Transakcja 0xf0d1dee1ec2bc2c81ed25edcac474dd7f6f5e48ce3b881f6a26c3f2f6fc14c30 niedawno widziana, pomijam.
+[2025-05-22 23:02:10] INFO: ✅ Transfer tokenu: 0x32b8b43fd56441c1f485fbdbc50e43ecea4c2055 → 0x1709264e49c1539fd2f98a09d3787e31262aaa9d, TX: 0xf35e69b2d69598c58e2c9fdc622f4740b6531405e52e9067a56e77906e32f836, kwota: 380.0
+[2025-05-22 23:02:11] INFO: Transakcja 0x80955eadbc8d1be7e9c8e930a88f9dfa575d09a7951ac2e3874d1e86e06be653 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x80955eadbc8d1be7e9c8e930a88f9dfa575d09a7951ac2e3874d1e86e06be653 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x80955eadbc8d1be7e9c8e930a88f9dfa575d09a7951ac2e3874d1e86e06be653 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x80955eadbc8d1be7e9c8e930a88f9dfa575d09a7951ac2e3874d1e86e06be653 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x80955eadbc8d1be7e9c8e930a88f9dfa575d09a7951ac2e3874d1e86e06be653 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x80955eadbc8d1be7e9c8e930a88f9dfa575d09a7951ac2e3874d1e86e06be653 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x80955eadbc8d1be7e9c8e930a88f9dfa575d09a7951ac2e3874d1e86e06be653 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x80955eadbc8d1be7e9c8e930a88f9dfa575d09a7951ac2e3874d1e86e06be653 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x7327dbdb5d87419cf0a5e58d249f011046f6c9d367121e9affa0d47a4125b7dd niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x7327dbdb5d87419cf0a5e58d249f011046f6c9d367121e9affa0d47a4125b7dd niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x7327dbdb5d87419cf0a5e58d249f011046f6c9d367121e9affa0d47a4125b7dd niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x7327dbdb5d87419cf0a5e58d249f011046f6c9d367121e9affa0d47a4125b7dd niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x7327dbdb5d87419cf0a5e58d249f011046f6c9d367121e9affa0d47a4125b7dd niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x7bf53bae9c2fe78781f4c8c8ea2fd660bf19c6f0ffc105a851f9ae30e41fd491 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: ✅ Transfer tokenu: 0x6dcbce46a8b494c885d0e7b6817d2b519df64467 → 0x9d234a38200154186eca6e54333712c157d2708e, TX: 0xe386d599622a4a907ba8e4adb841a44b67569b178cbfd294fae9fa80686ed249, kwota: 15.0
+[2025-05-22 23:02:11] INFO: Transakcja 0x6da4ceea879d9a60dd7ee10a6b464d037544e7f288c8ede64093179d2b7e3848 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x6da4ceea879d9a60dd7ee10a6b464d037544e7f288c8ede64093179d2b7e3848 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x6da4ceea879d9a60dd7ee10a6b464d037544e7f288c8ede64093179d2b7e3848 niedawno widziana, pomijam.
+[2025-05-22 23:02:11] INFO: Transakcja 0x6da4ceea879d9a60dd7ee10a6b464d037544e7f288c8ede64093179d2b7e3848 niedawno widziana, pomijam.
+[2025-05-22 23:02:12] INFO: Transakcja 0x466bc59ffc6db28dd5ed843f3c17b14362682d41effc369a9bc5618296b57533 niedawno widziana, pomijam.
+[2025-05-22 23:02:12] INFO: Transakcja 0x54d296e2af2d9ab8cd390324e1d3eb90f2a0fde6a9a43629dd3b5219e64a9099 niedawno widziana, pomijam.
+[2025-05-22 23:02:12] INFO: Transakcja 0x54d296e2af2d9ab8cd390324e1d3eb90f2a0fde6a9a43629dd3b5219e64a9099 niedawno widziana, pomijam.
+[2025-05-22 23:02:12] INFO: Transakcja 0x54d296e2af2d9ab8cd390324e1d3eb90f2a0fde6a9a43629dd3b5219e64a9099 niedawno widziana, pomijam.
+[2025-05-22 23:02:12] INFO: Transakcja 0x54d296e2af2d9ab8cd390324e1d3eb90f2a0fde6a9a43629dd3b5219e64a9099 niedawno widziana, pomijam.
+[2025-05-22 23:02:12] INFO: Transakcja 0x54d296e2af2d9ab8cd390324e1d3eb90f2a0fde6a9a43629dd3b5219e64a9099 niedawno widziana, pomijam.
+[2025-05-22 23:02:12] INFO: Transakcja 0x54d296e2af2d9ab8cd390324e1d3eb90f2a0fde6a9a43629dd3b5219e64a9099 niedawno widziana, pomijam.
+[2025-05-22 23:13:11] INFO: Transakcja 0x28381bc2f66eac84183e043c5ef8846a83db5a5dcbba838833dc5eb3defd7cf3 niedawno widziana, pomijam.
+[2025-05-22 23:13:11] INFO: Transakcja 0x00dfb81be97329ab38c5e99e3a2a8ad79a7d765793b756030423ac3c01682697 niedawno widziana, pomijam.
+[2025-05-22 23:13:11] INFO: Transakcja 0xc851e026fbcb031080e15947011374acc1b8153d44d51fdd9960f0478fc6032c niedawno widziana, pomijam.
+[2025-05-22 23:13:11] INFO: Transakcja 0xc851e026fbcb031080e15947011374acc1b8153d44d51fdd9960f0478fc6032c niedawno widziana, pomijam.
+[2025-05-22 23:13:13] INFO: ✅ Transfer tokenu: 0x1840d3e942c19ca914c75ebb4deedfaaee4a6864 → 0x30a6f502b639e4f54038906b689c254189e17712, TX: 0x34803ebd6edc447ce4be8e7e713e1f08592a4396dfa9a03c0d3e18ffbd09daf9, kwota: 6.21
+[2025-05-22 23:13:13] INFO: ✅ Transfer tokenu: 0x6c2ce01b29d60b8bdd0e3265ad92da817e27bd95 → 0x7c4d928d61d87dc2a0b9c7788d16de678e9825d1, TX: 0xfa9ad3091b33f5adce76617a9d5c4232c0096adbe0a8e20ac162dfd09f9e878d, kwota: 110.48865
+[2025-05-22 23:13:13] INFO: Transakcja 0x78f739b462e9f274292a618cf2d1a91a828ebad7446b2c417a1de92812f869c9 niedawno widziana, pomijam.
+[2025-05-22 23:13:13] INFO: Transakcja 0x78f739b462e9f274292a618cf2d1a91a828ebad7446b2c417a1de92812f869c9 niedawno widziana, pomijam.
+[2025-05-22 23:13:13] INFO: Transakcja 0x78f739b462e9f274292a618cf2d1a91a828ebad7446b2c417a1de92812f869c9 niedawno widziana, pomijam.
+[2025-05-22 23:13:13] INFO: Transakcja 0x78f739b462e9f274292a618cf2d1a91a828ebad7446b2c417a1de92812f869c9 niedawno widziana, pomijam.
+[2025-05-22 23:13:14] INFO: Transakcja 0x56ec683715233798f57fed4e8c5dda5b5b123ac1c17112e1ba8fb0614d2d6481 niedawno widziana, pomijam.
+[2025-05-22 23:13:14] INFO: Transakcja 0x56ec683715233798f57fed4e8c5dda5b5b123ac1c17112e1ba8fb0614d2d6481 niedawno widziana, pomijam.
+[2025-05-22 23:13:14] INFO: Transakcja 0x4258cd23b648b58a4dc2e233c868e7391cd4d863056f954dbb4a7daf37e80c49 niedawno widziana, pomijam.
+[2025-05-22 23:13:14] INFO: Transakcja 0x4258cd23b648b58a4dc2e233c868e7391cd4d863056f954dbb4a7daf37e80c49 niedawno widziana, pomijam.
+[2025-05-22 23:13:14] INFO: Transakcja 0x4258cd23b648b58a4dc2e233c868e7391cd4d863056f954dbb4a7daf37e80c49 niedawno widziana, pomijam.
+[2025-05-22 23:13:14] INFO: Transakcja 0xcc8173f2d24c4aa9daf58e8d44192f3bb3f49ef8ad2cb245b107296568893b1b niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0xca93805fcc8f93138413ea689b0033ad7aee990bf3a8c4cd175c5f03f9142c49 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0xca93805fcc8f93138413ea689b0033ad7aee990bf3a8c4cd175c5f03f9142c49 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0xca93805fcc8f93138413ea689b0033ad7aee990bf3a8c4cd175c5f03f9142c49 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x57de9d805647ae9842f04922f236c55a41d7e87ab399bf362be7e2e3465836e8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x075976147d09100a6315995911686d29124dcc7a54af489b54c1b243318e431d niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x075976147d09100a6315995911686d29124dcc7a54af489b54c1b243318e431d niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x075976147d09100a6315995911686d29124dcc7a54af489b54c1b243318e431d niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x4d23d3fb40b1756761907068fe10e396094db152ac4e0f1d37fc1c9a54e43d33 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x4d23d3fb40b1756761907068fe10e396094db152ac4e0f1d37fc1c9a54e43d33 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x4d23d3fb40b1756761907068fe10e396094db152ac4e0f1d37fc1c9a54e43d33 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:15] INFO: Transakcja 0x42da1ae62ebdb4c5463a6cd1710b040b721f319fd8550d40da3764cc4e5c9ea8 niedawno widziana, pomijam.
+[2025-05-22 23:13:16] INFO: Transakcja 0xcf1faccc4990d94182a349daa1d890c89a6722f3a4e0e768d4d05068033f2883 niedawno widziana, pomijam.
+[2025-05-22 23:13:16] INFO: Transakcja 0x9e71763f5b76fcadc7ab3f537043d11cb871a3cc5ba1e1686a0b956ec39fecf5 niedawno widziana, pomijam.
+[2025-05-22 23:13:18] INFO: Transakcja 0x8aa6402d38292652c8c7dfc2024de00c7ec227c92843a6c2981e4dec4115d11d niedawno widziana, pomijam.
+[2025-05-22 23:13:18] INFO: Transakcja 0x8aa6402d38292652c8c7dfc2024de00c7ec227c92843a6c2981e4dec4115d11d niedawno widziana, pomijam.
+[2025-05-22 23:13:18] INFO: Transakcja 0x8aa6402d38292652c8c7dfc2024de00c7ec227c92843a6c2981e4dec4115d11d niedawno widziana, pomijam.
+[2025-05-22 23:13:18] INFO: Transakcja 0x8a54def94fbf2cde98fb05b8c2f454b1264a5b12d67bf945179186bf31b6b945 niedawno widziana, pomijam.
+[2025-05-22 23:13:19] INFO: ✅ Transfer tokenu: 0x15d89ce7129852be54ba73a39b5e844a90c2ac9c → 0x53209bcdcf21ddcae42de4897b22bb0c335d882c, TX: 0x2d84ca3c39e89e7101d8fcb74fbfb15bb6bf5de5fb6c678b2ef6f763fe3f4510, kwota: 11.0
+[2025-05-22 23:20:03] INFO: ✅ Transfer tokenu: 0x1c7643d4cfba1c5e8538c428aa24cff912d59eeb → 0x6d7a754331f246bf7ba71227f5db1d2b4584325a, TX: 0x4a15425e2d58c0da15623f3396dc1aae4e61af37af35ce380456ce0bc232dd06, kwota: 2.3
+[2025-05-22 23:20:03] INFO: ✅ Transfer tokenu: 0x38e08cf0961de6d29f79493ade04e466f6b89dad → 0xf46500153f6ec430537382acadaaeb101faf5f93, TX: 0xfcb743205b6ca3387c97fabd5b61381d46deb83a32ae1e145fc3af82b31cc8d3, kwota: 25.31
+[2025-05-22 23:20:04] INFO: ✅ Transfer tokenu: 0x355efbcbcdb96ab72b91cfca2114cd43f93e90ed → 0xf70da97812cb96acdf810712aa562db8dfa3dbef, TX: 0x2cafe528c997693d59ca0405cd3422a9e19b1436bd01e2d7ec5ca0689af9fb4a, kwota: 10.0
+[2025-05-22 23:20:04] INFO: Transakcja 0x483cd5b81efce2095b0e7dd19304a9ab16d613232d41fd8b934bfdc959c1c265 niedawno widziana, pomijam.
+[2025-05-22 23:20:04] INFO: Transakcja 0x483cd5b81efce2095b0e7dd19304a9ab16d613232d41fd8b934bfdc959c1c265 niedawno widziana, pomijam.
+[2025-05-22 23:20:04] INFO: Transakcja 0x85a7a6ea27feb9fd82d85a1133db698b3f36b7e3640d0164dc18aad791ffcd46 niedawno widziana, pomijam.
+[2025-05-22 23:20:04] INFO: Transakcja 0x85a7a6ea27feb9fd82d85a1133db698b3f36b7e3640d0164dc18aad791ffcd46 niedawno widziana, pomijam.
+[2025-05-22 23:20:05] INFO: ⏳ Transakcja 0x3b9ae035d59ce23ae32842df40c6de23f64189e371e6ec86cf0bdd340df87334 wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:20:06] INFO: Transakcja 0x3b9ae035d59ce23ae32842df40c6de23f64189e371e6ec86cf0bdd340df87334 niedawno widziana, pomijam.
+[2025-05-22 23:20:06] INFO: Transakcja 0x3b9ae035d59ce23ae32842df40c6de23f64189e371e6ec86cf0bdd340df87334 niedawno widziana, pomijam.
+[2025-05-22 23:20:06] INFO: Transakcja 0x3b9ae035d59ce23ae32842df40c6de23f64189e371e6ec86cf0bdd340df87334 niedawno widziana, pomijam.
+[2025-05-22 23:20:06] INFO: ⏳ Transakcja 0xe43c2ce8259f2bdbd9becc4d20a3903972bbd10b81230601fe53f031c4276f48 wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:20:07] INFO: ✅ Transfer tokenu: 0x0f55030556b30926f78f73064ff09a0981b5e076 → 0xde87234c033093af6307307a51d391bd40b1313a, TX: 0xe43c2ce8259f2bdbd9becc4d20a3903972bbd10b81230601fe53f031c4276f48, kwota: 2e-06
+[2025-05-22 23:20:08] INFO: Transakcja 0xab5efc78c4d4965f79c3e614742dcf55381c353094ed2bf03b4489a187ae162b niedawno widziana, pomijam.
+[2025-05-22 23:20:08] INFO: ⏳ Transakcja 0x034fa3a0978a5a547cd857b9c4f41cf5cf4877c094534230d1cd56c7c440cf28 wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:20:09] INFO: Transakcja 0xc35f5bea32f506e49a8124daaa66b8ed8ebe80dc0c5d48e6765c666074c6e993 niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc35f5bea32f506e49a8124daaa66b8ed8ebe80dc0c5d48e6765c666074c6e993 niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc35f5bea32f506e49a8124daaa66b8ed8ebe80dc0c5d48e6765c666074c6e993 niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc35f5bea32f506e49a8124daaa66b8ed8ebe80dc0c5d48e6765c666074c6e993 niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc35f5bea32f506e49a8124daaa66b8ed8ebe80dc0c5d48e6765c666074c6e993 niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc35f5bea32f506e49a8124daaa66b8ed8ebe80dc0c5d48e6765c666074c6e993 niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc35f5bea32f506e49a8124daaa66b8ed8ebe80dc0c5d48e6765c666074c6e993 niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc8f8e2df3b27e93f933fef8342cdd858c876f0d10556290b169e00c4901aaf8a niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc8f8e2df3b27e93f933fef8342cdd858c876f0d10556290b169e00c4901aaf8a niedawno widziana, pomijam.
+[2025-05-22 23:20:09] INFO: Transakcja 0xc8f8e2df3b27e93f933fef8342cdd858c876f0d10556290b169e00c4901aaf8a niedawno widziana, pomijam.
+[2025-05-22 23:20:10] INFO: Transakcja 0xd395e55cd7addeef613c71047d9f9f741c14cb6e23c94b252742436c26691f9c niedawno widziana, pomijam.
+[2025-05-22 23:20:10] INFO: Transakcja 0xd395e55cd7addeef613c71047d9f9f741c14cb6e23c94b252742436c26691f9c niedawno widziana, pomijam.
+[2025-05-22 23:20:10] INFO: Transakcja 0xd395e55cd7addeef613c71047d9f9f741c14cb6e23c94b252742436c26691f9c niedawno widziana, pomijam.
+[2025-05-22 23:20:10] INFO: ✅ Transfer tokenu: 0xbc38caca2dc6d84e0cc63e25054e1cdfdcafaed0 → 0x3304e22ddaa22bcdc5fca2269b418046ae7b566a, TX: 0xdd2837094fed1c5ba924e0713729670c82335517a31b178576f0997fbe0dfc06, kwota: 93192.558874
+[2025-05-22 23:20:10] INFO: ⏳ Transakcja 0x5990532f2af19e3e1715fb1f094abda9c6da87db4b259d6c8deb5110ec861cf3 wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:20:12] INFO: ⏳ Transakcja 0x5990532f2af19e3e1715fb1f094abda9c6da87db4b259d6c8deb5110ec861cf3 wciąż w mempoolu. Próba 2/4
+[2025-05-22 23:20:13] INFO: ⏳ Transakcja 0x5990532f2af19e3e1715fb1f094abda9c6da87db4b259d6c8deb5110ec861cf3 wciąż w mempoolu. Próba 3/4
+[2025-05-22 23:20:14] INFO: ✅ Transfer tokenu: 0x3d10c218285ead798a173378c6ad25f9fd3c544a → 0x3304e22ddaa22bcdc5fca2269b418046ae7b566a, TX: 0x5990532f2af19e3e1715fb1f094abda9c6da87db4b259d6c8deb5110ec861cf3, kwota: 42886.406665
+[2025-05-22 23:20:24] INFO: Transakcja 0x38f2e0616789964315b2bb7b466ca83319553017b4197ff5c3e0484296b3c198 niedawno widziana, pomijam.
+[2025-05-22 23:20:24] INFO: ✅ Transfer tokenu: 0x5b3ffc311cea0400d188e9241140b7801f162f05 → 0x2c3bbcc6d3486e79e4139e3724a6b781498fc069, TX: 0x783638b9c5ce9266c4796929eb0fe7bb40c06507a2966e3ac43058373c497930, kwota: 103.22755
+[2025-05-22 23:20:25] INFO: Transakcja 0x78855ad551a5ea260dde97861f0dafe3f1aa6dd3badcefb301d71e89b7647073 niedawno widziana, pomijam.
+[2025-05-22 23:20:25] INFO: ⏳ Transakcja 0x61517fdfc9ad927c1757fdea913dcd65e70c12980a63aecca9569ecec2d06f9e wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:20:27] INFO: Transakcja 0x9c61b370fc67fc08573d47b00d28b6653f3c5b30e0711ce03bf19e96d4ad7dee niedawno widziana, pomijam.
+[2025-05-22 23:20:27] INFO: Transakcja 0x9c61b370fc67fc08573d47b00d28b6653f3c5b30e0711ce03bf19e96d4ad7dee niedawno widziana, pomijam.
+[2025-05-22 23:20:27] INFO: Transakcja 0x9c61b370fc67fc08573d47b00d28b6653f3c5b30e0711ce03bf19e96d4ad7dee niedawno widziana, pomijam.
+[2025-05-22 23:20:27] INFO: Transakcja 0x9c61b370fc67fc08573d47b00d28b6653f3c5b30e0711ce03bf19e96d4ad7dee niedawno widziana, pomijam.
+[2025-05-22 23:20:27] INFO: Transakcja 0x9c61b370fc67fc08573d47b00d28b6653f3c5b30e0711ce03bf19e96d4ad7dee niedawno widziana, pomijam.
+[2025-05-22 23:20:27] INFO: ⏳ Transakcja 0x4a9147027f977d6c41d2303a9b9e86739f3a40b0c37610cab0a6589b6b172ae6 wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:20:28] INFO: ⏳ Transakcja 0x4a9147027f977d6c41d2303a9b9e86739f3a40b0c37610cab0a6589b6b172ae6 wciąż w mempoolu. Próba 2/4
+[2025-05-22 23:20:29] INFO: ✅ Transfer tokenu: 0x3fad2fece576a6d5f5343850b6fe50798f629056 → 0x26d0caf7f7ab08d84b8f0e2394e79e9f76824a24, TX: 0x4a9147027f977d6c41d2303a9b9e86739f3a40b0c37610cab0a6589b6b172ae6, kwota: 4.470327
+[2025-05-22 23:20:29] INFO: ✅ Transfer tokenu: 0x0f55030556b30926f78f73064ff09a0981b5e076 → 0xf9a61c74a0402a6fa68731dd5116fc1f5401ed90, TX: 0xb7ccf94d5e419610f621dddffe0d8106b8aa16867b0d122378225f2a619f1cd4, kwota: 2e-06
+[2025-05-22 23:20:30] INFO: ⏳ Transakcja 0x7906ff7722a14b3fad3e74b8164d571b30cbf71642b3ea046f681316478643b3 wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:20:31] INFO: Transakcja 0x7906ff7722a14b3fad3e74b8164d571b30cbf71642b3ea046f681316478643b3 niedawno widziana, pomijam.
+[2025-05-22 23:20:32] INFO: ✅ Transfer tokenu: 0x777394a03b62c802edac4168501a96c357e9750c → 0xf70da97812cb96acdf810712aa562db8dfa3dbef, TX: 0x7a8ad867aef9096e47411e6a36119435a596b69cd9002eb5ca83f1921364a9b3, kwota: 5.0
+[2025-05-22 23:20:32] INFO: ⏳ Transakcja 0x1b9227086fdc290a4e5527abe7f44b2ac1f512a3ad7c542784da46a0698e8480 wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:20:33] INFO: Transakcja 0x1b9227086fdc290a4e5527abe7f44b2ac1f512a3ad7c542784da46a0698e8480 niedawno widziana, pomijam.
+[2025-05-22 23:20:34] INFO: Transakcja 0x0da28380be46494e015ea0d8264beb0781e3b123a604f3b4841402f947d1f70f niedawno widziana, pomijam.
+[2025-05-22 23:20:34] INFO: Transakcja 0x3698f4a0fdf56d27ab30a3b5e511235809497abc13cafa7b3a8d17dc42743875 niedawno widziana, pomijam.
+[2025-05-22 23:21:48] INFO: ✅ Transfer tokenu: 0x3304e22ddaa22bcdc5fca2269b418046ae7b566a → 0xb86634dfd2ec5afeba6f92e787d707d099ad2c62, TX: 0x0fea490324cde3c6f1cb684c2d0b161de6c728dc9e603d152a505f946dbbb025, kwota: 249.78
+[2025-05-22 23:21:49] INFO: Transakcja 0xfed6beced66ccd633f575c5fd094fc14ed7445022af96057a0816ed8c4fd40ea niedawno widziana, pomijam.
+[2025-05-22 23:21:49] INFO: Transakcja 0xfed6beced66ccd633f575c5fd094fc14ed7445022af96057a0816ed8c4fd40ea niedawno widziana, pomijam.
+[2025-05-22 23:21:49] INFO: Transakcja 0x9378606507256bbc45294ad6ce7b02c4398a831f70134bac52c4baaef9f91d88 niedawno widziana, pomijam.
+[2025-05-22 23:21:49] INFO: Transakcja 0x9378606507256bbc45294ad6ce7b02c4398a831f70134bac52c4baaef9f91d88 niedawno widziana, pomijam.
+[2025-05-22 23:21:49] INFO: Transakcja 0xf06588b7c87c3e1ad8f23b803610ddd0c2e1483aa03f63bd7403f4ddde166335 niedawno widziana, pomijam.
+[2025-05-22 23:21:49] INFO: Transakcja 0xf06588b7c87c3e1ad8f23b803610ddd0c2e1483aa03f63bd7403f4ddde166335 niedawno widziana, pomijam.
+[2025-05-22 23:21:50] INFO: Transakcja 0x8e4c18037100bb1b109b9aab5ebcf8b57978a4d03764e5531be97433e7b639c3 niedawno widziana, pomijam.
+[2025-05-22 23:21:50] INFO: Transakcja 0xfd0e918a93961658499a708a269eb323de9a150aae60fcce3827169c43098d84 niedawno widziana, pomijam.
+[2025-05-22 23:21:50] INFO: Transakcja 0xfd0e918a93961658499a708a269eb323de9a150aae60fcce3827169c43098d84 niedawno widziana, pomijam.
+[2025-05-22 23:21:50] INFO: Transakcja 0x2cf0beb0d2f89d030a9599a29d6b659cf3a2c976d7b205cace73a1e322bc48bf niedawno widziana, pomijam.
+[2025-05-22 23:21:50] INFO: Transakcja 0x2cf0beb0d2f89d030a9599a29d6b659cf3a2c976d7b205cace73a1e322bc48bf niedawno widziana, pomijam.
+[2025-05-22 23:21:51] INFO: Transakcja 0x29d121d4b8512f34369c2c12c64694fb6085a2a79bcb941ff90dff7ba7ab7a8f niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0x315eb50e0cd49ffb95cd9becb4961e5f38b221f406df5572eb2dab0f5f120ddd niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0x315eb50e0cd49ffb95cd9becb4961e5f38b221f406df5572eb2dab0f5f120ddd niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0xdd23d0c1ee5b228b0387d7325e90cf45830116d92a911d5240402c214a3463fe niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0xdd23d0c1ee5b228b0387d7325e90cf45830116d92a911d5240402c214a3463fe niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0xdd23d0c1ee5b228b0387d7325e90cf45830116d92a911d5240402c214a3463fe niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0xdd23d0c1ee5b228b0387d7325e90cf45830116d92a911d5240402c214a3463fe niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0xdd23d0c1ee5b228b0387d7325e90cf45830116d92a911d5240402c214a3463fe niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0xdd23d0c1ee5b228b0387d7325e90cf45830116d92a911d5240402c214a3463fe niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0x6a7c43a123ff7a8afa401ea0a98c76a45307289823865dbfdfa842d3d4a26e64 niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0x6a7c43a123ff7a8afa401ea0a98c76a45307289823865dbfdfa842d3d4a26e64 niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0x6a7c43a123ff7a8afa401ea0a98c76a45307289823865dbfdfa842d3d4a26e64 niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: ✅ Transfer tokenu: 0x351e4d52704d2caee674075ac72f4eb938eafaaf → 0xf70da97812cb96acdf810712aa562db8dfa3dbef, TX: 0xb27b9d37762f65e9b723a3d2bda5a35eb022df61156862612e56c16323361a13, kwota: 10.0
+[2025-05-22 23:21:52] INFO: Transakcja 0x77272d07e8c2f986a8b9b87cf22be9ac8f9540cb014a24382f3a813be6cd9964 niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0x77272d07e8c2f986a8b9b87cf22be9ac8f9540cb014a24382f3a813be6cd9964 niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0x77272d07e8c2f986a8b9b87cf22be9ac8f9540cb014a24382f3a813be6cd9964 niedawno widziana, pomijam.
+[2025-05-22 23:21:52] INFO: Transakcja 0x77272d07e8c2f986a8b9b87cf22be9ac8f9540cb014a24382f3a813be6cd9964 niedawno widziana, pomijam.
+[2025-05-22 23:21:53] INFO: ✅ Transfer tokenu: 0x1985ea6e9c68e1c272d8209f3b478ac2fdb25c87 → 0x95c402637ced32b3d686657043f0767a097fe889, TX: 0x905fba534dc150c194709e725af76428e5ea503c3cccb8bfbcd14983ce863eeb, kwota: 10024.9784
+[2025-05-22 23:21:53] INFO: Transakcja 0x3072b783c546b815ae2397962ab1897ea4584d162f7790642846c1b9479b86c4 niedawno widziana, pomijam.
+[2025-05-22 23:21:53] INFO: Transakcja 0xed3b3a8b765e58b206a02b1eb3a5e74fcc144dbad5ec6ee85804a9c540739e7a niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x8925c328217b38d26978165e53a5541d7a87cb0d6119b1cf214ddde9569664a0 niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x38cd63a02438e763636621c85604a994be0c713825b6b2c77e15aeb8802e3cbc niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x38cd63a02438e763636621c85604a994be0c713825b6b2c77e15aeb8802e3cbc niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x38cd63a02438e763636621c85604a994be0c713825b6b2c77e15aeb8802e3cbc niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x38cd63a02438e763636621c85604a994be0c713825b6b2c77e15aeb8802e3cbc niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x861f6854c1d3037f632619782e30295e127bc199a19f2588bb569d0962d74b67 niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x861f6854c1d3037f632619782e30295e127bc199a19f2588bb569d0962d74b67 niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x861f6854c1d3037f632619782e30295e127bc199a19f2588bb569d0962d74b67 niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x861f6854c1d3037f632619782e30295e127bc199a19f2588bb569d0962d74b67 niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x408cb0c8c512214aed61a08c0f22baa0861f3fa19b0df8909e48423c46a39f2c niedawno widziana, pomijam.
+[2025-05-22 23:21:54] INFO: Transakcja 0x410b237f2e36153fcdd67a5b924a417df67824602d39eeb32ee78cbe6c719bf2 niedawno widziana, pomijam.
+[2025-05-22 23:21:55] INFO: ✅ Transfer tokenu: 0x02ec03c0176d8b0d256e9a71c6699c24c3fa15e1 → 0x8c5484f83770210c9138fea2e61acae3ecb12f7d, TX: 0x64a769a9c126f60e5e8dba5991e11ab17f6cccae660940eb31bb71a598f1eb35, kwota: 0.000142
+[2025-05-22 23:21:55] INFO: ✅ Transfer tokenu: 0x500c6d6def64a8f1687771bf74a668f1919e88fd → 0x57aa2283811fdfee359ac73341bdf3dc774dbbc4, TX: 0xcfea53efb646a9dec9876c91721ad0d6e649d5dd08319ee56ab1561036078198, kwota: 0.000715
+[2025-05-22 23:21:55] INFO: ✅ Transfer tokenu: 0xa26eb9608c154144f9d8257b77918ab7272b4a04 → 0x9f6232d47f42bc17722c5f4d8aac03ffdf7f58a2, TX: 0xf7b989185e5bf62c9794e552ccfdbb3cf4e37d3a11f0a43b632c1b05be5cbd80, kwota: 0.000271
+[2025-05-22 23:21:55] INFO: ✅ Transfer tokenu: 0x9f762792f700dd02ff8ba7798d38f7de21230dfc → 0x84d8d4b63c7d40ee5f68e566844e547782c27f39, TX: 0x0cadb325532a54e653c031ebdae4d7f0b7d82d56c13800769b667a9888b3b96c, kwota: 0.000721
+[2025-05-22 23:21:56] INFO: ✅ Transfer tokenu: 0x0570e84a51dca1b6445d9b21d2b7e782e148b600 → 0x9ef6815ac179d7306eb4fc46d105d4743854333b, TX: 0x0d35a386d8cfd962b3b45e8d6a781e3464cfcae85b135f9ff6e2fbcdfa8f033e, kwota: 0.0001
+[2025-05-22 23:21:56] INFO: Transakcja 0x64d93d051cb2806bb7f873375476fa77531b4f6132cf42a6d0bf971848502587 niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x64d93d051cb2806bb7f873375476fa77531b4f6132cf42a6d0bf971848502587 niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x64d93d051cb2806bb7f873375476fa77531b4f6132cf42a6d0bf971848502587 niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x64d93d051cb2806bb7f873375476fa77531b4f6132cf42a6d0bf971848502587 niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x0dc0e373f715e1a5287662f14ce50ccfd5e734df497be0a65ec357975f0aed1b niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x0dc0e373f715e1a5287662f14ce50ccfd5e734df497be0a65ec357975f0aed1b niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x0dc0e373f715e1a5287662f14ce50ccfd5e734df497be0a65ec357975f0aed1b niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x0dc0e373f715e1a5287662f14ce50ccfd5e734df497be0a65ec357975f0aed1b niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x0dc0e373f715e1a5287662f14ce50ccfd5e734df497be0a65ec357975f0aed1b niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x0dc0e373f715e1a5287662f14ce50ccfd5e734df497be0a65ec357975f0aed1b niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x0dc0e373f715e1a5287662f14ce50ccfd5e734df497be0a65ec357975f0aed1b niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x7757fa7f708195473629c13d7e74e8292900645972cdcef6c27c88863c5eca5a niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x7757fa7f708195473629c13d7e74e8292900645972cdcef6c27c88863c5eca5a niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x7757fa7f708195473629c13d7e74e8292900645972cdcef6c27c88863c5eca5a niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x7757fa7f708195473629c13d7e74e8292900645972cdcef6c27c88863c5eca5a niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x7757fa7f708195473629c13d7e74e8292900645972cdcef6c27c88863c5eca5a niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x7757fa7f708195473629c13d7e74e8292900645972cdcef6c27c88863c5eca5a niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x7757fa7f708195473629c13d7e74e8292900645972cdcef6c27c88863c5eca5a niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0xa8c99e581c3f636bc5018e5fc3dc8d3fb5b6ccb4a549375fb0dec5738d0993fd niedawno widziana, pomijam.
+[2025-05-22 23:21:56] INFO: Transakcja 0x0e784867157fdae139a1b2c0465664300d82eb07dbf6eb6c6302f8a0425165fb niedawno widziana, pomijam.
+[2025-05-22 23:21:57] INFO: Transakcja 0x1b2d7e60be8faadda99ed29d0b2616420289e267842cba18d4104d12310ffef1 niedawno widziana, pomijam.
+[2025-05-22 23:21:57] INFO: Transakcja 0x43b8bb5edc07fed498eaa540f741c9f43846031a41e6c0e7c84cc6956adb280c niedawno widziana, pomijam.
+[2025-05-22 23:21:57] INFO: Transakcja 0x43b8bb5edc07fed498eaa540f741c9f43846031a41e6c0e7c84cc6956adb280c niedawno widziana, pomijam.
+[2025-05-22 23:21:57] INFO: Transakcja 0x43b8bb5edc07fed498eaa540f741c9f43846031a41e6c0e7c84cc6956adb280c niedawno widziana, pomijam.
+[2025-05-22 23:21:57] INFO: Transakcja 0x43b8bb5edc07fed498eaa540f741c9f43846031a41e6c0e7c84cc6956adb280c niedawno widziana, pomijam.
+[2025-05-22 23:21:57] INFO: Transakcja 0x18bd031de6eff11c1c5a677a8fb7e7424884ad3c7ce9d848d36827c430d62d34 niedawno widziana, pomijam.
+[2025-05-22 23:21:57] INFO: Transakcja 0x53f08420cf219cc4babc66dc7efc40b9d311137404ce39bfc2e5319c7d1f6acd niedawno widziana, pomijam.
+[2025-05-22 23:21:57] INFO: Transakcja 0x53f08420cf219cc4babc66dc7efc40b9d311137404ce39bfc2e5319c7d1f6acd niedawno widziana, pomijam.
+[2025-05-22 23:21:58] INFO: Transakcja 0x9b4a1d61aea76c0dd1d334dbdd45ffeabf47bec92347760f88a07eeb2ecf282b niedawno widziana, pomijam.
+[2025-05-22 23:21:58] INFO: Transakcja 0x5e2aa1c7495c274f976c060d58cec67b254849a4a9da787d1470ef47e37f01f0 niedawno widziana, pomijam.
+[2025-05-22 23:21:58] INFO: ✅ Transfer tokenu: 0xbaed175cd391f57126fc18cd9f7d2d82c2ec439f → 0xa7cf65e24650f8c18e40adf3843cdeebaaa18ee3, TX: 0x762f5728101c4f4e56d92b492a81e4d758ee21a172ded8a8b541209b26b07652, kwota: 0.000205
+[2025-05-22 23:21:58] INFO: ✅ Transfer tokenu: 0xe6bbf9fcc1cab91fde5bf320fe84f4d8cfd44424 → 0x7180148163f5848bad483cf8cb387a80ef78edbc, TX: 0x7416b3ce1b9c543bebdad2c3d1aff5212511fc5cb861555bcf110d4e18387789, kwota: 0.000969
+[2025-05-22 23:21:58] INFO: ✅ Transfer tokenu: 0xea9134b0e37cb31a5169643e7d797eb5d82f324e → 0x84d6ae3f2b28cfbc5b0810b062cd719b20b30679, TX: 0xd69d8818c96a9501d9702236f594a23af85612ffaa0254c1110557fa64406627, kwota: 0.0003
+[2025-05-22 23:21:59] INFO: Transakcja 0x8fb1ab1979995b64a573e669d45684a6c7423f8f3465e29fa1dbe42387abc72c niedawno widziana, pomijam.
+[2025-05-22 23:21:59] INFO: ✅ Transfer tokenu: 0x1985ea6e9c68e1c272d8209f3b478ac2fdb25c87 → 0x9ff145ccadc1c71521f079b789e3938a795a98e8, TX: 0xc82db00a86c85e050edbd773eb44b49379e9d539564bbde78f5716b23b06f4d3, kwota: 57.011035
+[2025-05-22 23:21:59] INFO: Transakcja 0xad8d24c1d7425be4ed5ec743efd79b42d59df6d2a41b1cfbb37c7ab584877dd6 niedawno widziana, pomijam.
+[2025-05-22 23:22:00] INFO: Transakcja 0x6b98d0820a85fa5649e702c0504d6d314554bf80468f94ee7c124e3efe25e013 niedawno widziana, pomijam.
+[2025-05-22 23:22:00] INFO: Transakcja 0x6b98d0820a85fa5649e702c0504d6d314554bf80468f94ee7c124e3efe25e013 niedawno widziana, pomijam.
+[2025-05-22 23:22:00] INFO: Transakcja 0x6b98d0820a85fa5649e702c0504d6d314554bf80468f94ee7c124e3efe25e013 niedawno widziana, pomijam.
+[2025-05-22 23:22:00] INFO: Transakcja 0x6b98d0820a85fa5649e702c0504d6d314554bf80468f94ee7c124e3efe25e013 niedawno widziana, pomijam.
+[2025-05-22 23:22:00] INFO: ✅ Transfer tokenu: 0xc6e92a8c08c365a726ecd5f08a74dc2acfad780e → 0x2736a134c88aebd921908f0f534600d05f57b1a4, TX: 0xa7eeba0ed7fd281d8be1ad8c765a60c979a10ffd80f04c05b1827c91f8fac29e, kwota: 2e-06
+[2025-05-22 23:22:00] INFO: Transakcja 0xb615ad6609b42b31f9214959ad7b72b8f2ba39709529ab59fe6f50f0d205db25 niedawno widziana, pomijam.
+[2025-05-22 23:22:00] INFO: Transakcja 0xb615ad6609b42b31f9214959ad7b72b8f2ba39709529ab59fe6f50f0d205db25 niedawno widziana, pomijam.
+[2025-05-22 23:22:01] INFO: Transakcja 0x3029af06c1554e1413aa9cbfee10045f0d87af1b54fbdf7e18be28e93471e58d niedawno widziana, pomijam.
+[2025-05-22 23:22:01] INFO: ✅ Transfer tokenu: 0xe6c88c7d0254eb3c24513f32c2fa74c549c357af → 0x2373234692446c1c8bf0882ac63bc8bb61bcfc07, TX: 0xcefd59c6417bf81a0ad0a297577fba146620c0837c3fc417329e1f51612ad24e, kwota: 0.0003
+[2025-05-22 23:22:02] INFO: ✅ Transfer tokenu: 0x7f115d7d20b4c34a55550f132447f3dfc95ac9bc → 0x2cff890f0378a11913b6129b2e97417a2c302680, TX: 0x27b528836339767f0a0b6678535aa509be37ceb3d5074f5feb7b0a3ba0ba9a2d, kwota: 4620.243966
+[2025-05-22 23:22:02] INFO: ✅ Transfer tokenu: 0xfd82ed495f744fdcb3c694bcc2832e40251ae69c → 0xc7713061dc68dcd96b57a56a7d176920b4b314e6, TX: 0xed1d2bb8f597d90c0204e70112d5971d32419bbdfdcee213d955129811eae463, kwota: 20.457008
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xa14457c988b535175c60646cbe22975d520ff195a629e749b7c9e2334ce9d18d niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0xdb169ddae97faeaca3938e2ad54875e261c1b3e513afc8d13a37a498f876901a niedawno widziana, pomijam.
+[2025-05-22 23:22:03] INFO: Transakcja 0x6b98d8ed82d39abd6f451d9afd8b51cbff49d3c0ec40657665da216764bd4d2c niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: ✅ Transfer tokenu: 0x0f55030556b30926f78f73064ff09a0981b5e076 → 0xdae4cd104be043525e1984529ada46b92e685d94, TX: 0xde9499afcfaa0d13eccce8463c6490722548f0aa890007f1f4cbf059c5fd4dbf, kwota: 2e-06
+[2025-05-22 23:22:04] INFO: Transakcja 0xe82d284b8e6ad8605b3efc07151a33ea73539d7cf3e3039dd991007b3d68fab7 niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: Transakcja 0xe82d284b8e6ad8605b3efc07151a33ea73539d7cf3e3039dd991007b3d68fab7 niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: Transakcja 0xe82d284b8e6ad8605b3efc07151a33ea73539d7cf3e3039dd991007b3d68fab7 niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: Transakcja 0xe82d284b8e6ad8605b3efc07151a33ea73539d7cf3e3039dd991007b3d68fab7 niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: Transakcja 0xe82d284b8e6ad8605b3efc07151a33ea73539d7cf3e3039dd991007b3d68fab7 niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: Transakcja 0xe82d284b8e6ad8605b3efc07151a33ea73539d7cf3e3039dd991007b3d68fab7 niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: Transakcja 0xe82d284b8e6ad8605b3efc07151a33ea73539d7cf3e3039dd991007b3d68fab7 niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: Transakcja 0x657e9c15ab2c60fc94af472db1a62bf2025ae02b520e053b3a6ecb3d5ad9b02a niedawno widziana, pomijam.
+[2025-05-22 23:22:04] INFO: Transakcja 0x657e9c15ab2c60fc94af472db1a62bf2025ae02b520e053b3a6ecb3d5ad9b02a niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xb0ebabb85fe49da4ad41f60ea9cec5a852967433afd6a73874e9fbe908866439 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xb0ebabb85fe49da4ad41f60ea9cec5a852967433afd6a73874e9fbe908866439 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x77bfd30da7322f40c87674825a4b261503c4e624e94d449d4d4b4c0823b83ae0 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xbea1508055922314fae159f10eacbbe7c9b5508913480debfa4367cab7be907b niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x6b024204ca2671f0f184fb1782e317458e2143d6d6c9be951f3df1f2f2ce494e niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xc31834d247a921a246354b211f5847b6fd7ab98eb3523fe20244b3c258c5197e niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xc31834d247a921a246354b211f5847b6fd7ab98eb3523fe20244b3c258c5197e niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xc31834d247a921a246354b211f5847b6fd7ab98eb3523fe20244b3c258c5197e niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xc31834d247a921a246354b211f5847b6fd7ab98eb3523fe20244b3c258c5197e niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xc31834d247a921a246354b211f5847b6fd7ab98eb3523fe20244b3c258c5197e niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0xc31834d247a921a246354b211f5847b6fd7ab98eb3523fe20244b3c258c5197e niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x10c0775c926badbb7b3ba5e29c76dbcef083c9f1205efe6c44abaf71f7ba0104 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x10c0775c926badbb7b3ba5e29c76dbcef083c9f1205efe6c44abaf71f7ba0104 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x10c0775c926badbb7b3ba5e29c76dbcef083c9f1205efe6c44abaf71f7ba0104 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x10c0775c926badbb7b3ba5e29c76dbcef083c9f1205efe6c44abaf71f7ba0104 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x38354f5c6d2182d11f79dee2d628efccde48a63629fb00b9cfbf8e8515fd1f53 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x38354f5c6d2182d11f79dee2d628efccde48a63629fb00b9cfbf8e8515fd1f53 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x38354f5c6d2182d11f79dee2d628efccde48a63629fb00b9cfbf8e8515fd1f53 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x38354f5c6d2182d11f79dee2d628efccde48a63629fb00b9cfbf8e8515fd1f53 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x38354f5c6d2182d11f79dee2d628efccde48a63629fb00b9cfbf8e8515fd1f53 niedawno widziana, pomijam.
+[2025-05-22 23:22:05] INFO: Transakcja 0x38354f5c6d2182d11f79dee2d628efccde48a63629fb00b9cfbf8e8515fd1f53 niedawno widziana, pomijam.
+[2025-05-22 23:22:06] INFO: Transakcja 0xca008cbfdb0bb935d47185e74c6d2de36c82c8d1c4a93ad6cc2ffe3773a66d64 niedawno widziana, pomijam.
+[2025-05-22 23:22:06] INFO: Transakcja 0xca008cbfdb0bb935d47185e74c6d2de36c82c8d1c4a93ad6cc2ffe3773a66d64 niedawno widziana, pomijam.
+[2025-05-22 23:22:06] INFO: Transakcja 0xca008cbfdb0bb935d47185e74c6d2de36c82c8d1c4a93ad6cc2ffe3773a66d64 niedawno widziana, pomijam.
+[2025-05-22 23:22:06] INFO: Transakcja 0xca008cbfdb0bb935d47185e74c6d2de36c82c8d1c4a93ad6cc2ffe3773a66d64 niedawno widziana, pomijam.
+[2025-05-22 23:22:06] INFO: Transakcja 0x7f9e75132450cb54e101cdc55828112f7742b78b1634dec20a96b39ec8a82f1e niedawno widziana, pomijam.
+[2025-05-22 23:22:07] INFO: Transakcja 0x93571994569193a533aed30d4d2c42b042689df721a829d9cdca2f602b0af9c1 niedawno widziana, pomijam.
+[2025-05-22 23:22:07] INFO: Transakcja 0x93571994569193a533aed30d4d2c42b042689df721a829d9cdca2f602b0af9c1 niedawno widziana, pomijam.
+[2025-05-22 23:22:18] INFO: ✅ Transfer tokenu: 0xb3a8efc56fffcd67fd39198b10f9dfa76b4238e9 → 0xd2cb829848f8857a589b03fa8b567c5ff0742e18, TX: 0xf995a8b01e06363b758e37ca91dc834c9249eb4fcdb749c1faff8b8ec8115054, kwota: 1450.0
+[2025-05-22 23:22:19] INFO: ✅ Transfer tokenu: 0x2981fbd78543abfc0e9de4ee7d800ff71ac4f985 → 0xdd830724d6d79e8a608e5d23a42a9c7b45c6917d, TX: 0xe3bc12e9440905f6a9c07687e941a094b223c84b9a35a6cf8faf48d746395293, kwota: 1.559934
+[2025-05-22 23:59:39] INFO: Transakcja 0x701c34acc00b48d1dfc35cf94079160dd97399e117e5c929bdfed96655923f1b niedawno widziana, pomijam.
+[2025-05-22 23:59:39] INFO: Transakcja 0x701c34acc00b48d1dfc35cf94079160dd97399e117e5c929bdfed96655923f1b niedawno widziana, pomijam.
+[2025-05-22 23:59:39] INFO: Transakcja 0xfea8b7158bafb0a13c18bb465a21a5947a0a046eb9b746c29d433b66f6db1254 niedawno widziana, pomijam.
+[2025-05-22 23:59:39] INFO: Transakcja 0xfea8b7158bafb0a13c18bb465a21a5947a0a046eb9b746c29d433b66f6db1254 niedawno widziana, pomijam.
+[2025-05-22 23:59:39] INFO: Transakcja 0x86e74f74570439597b399e9cd1bf4f614d0a7fadc0d11785c413eb1c859c3c8c niedawno widziana, pomijam.
+[2025-05-22 23:59:39] INFO: Transakcja 0xf81556d80539d836a9949b9cbe52a6dc0adfd902ff69576b8083f3a6f35a867e niedawno widziana, pomijam.
+[2025-05-22 23:59:39] INFO: Transakcja 0xfbc7963f9edd635f30dd337aec73c88f7ad310d82f4d27a80896f0bdc5e1efba niedawno widziana, pomijam.
+[2025-05-22 23:59:39] INFO: ⏳ Transakcja 0x0cbeda3e5e5aa9d9285c0df83f0dec495ce2ccfaec3131c48999dea5fd188e3a wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:59:41] INFO: ✅ Transfer tokenu: 0xbaed383ede0e5d9d72430661f3285daa77e9439f → 0x3ce6fc105a6577f237f26cc908cd2435c83187fb, TX: 0x0cbeda3e5e5aa9d9285c0df83f0dec495ce2ccfaec3131c48999dea5fd188e3a, kwota: 681.581551
+[2025-05-22 23:59:41] INFO: Transakcja 0x228d55068d1652721c6ee417a757a5a8dbc8751e01edcd9680f4be5ee6eed44e niedawno widziana, pomijam.
+[2025-05-22 23:59:41] INFO: ✅ Transfer tokenu: 0xc6e3d9dd62386fec3789b9d815045d738e0a390c → 0xf70da97812cb96acdf810712aa562db8dfa3dbef, TX: 0x2b329c5b2eb1ca2d53fbbf6c467e58fc35d0388763e011348f4abb44e151d80c, kwota: 10.0
+[2025-05-22 23:59:42] INFO: Transakcja 0xee79f0d8dce081d39e2b9a69bde10a98ff50fd5908550095b590bda79bca01e5 niedawno widziana, pomijam.
+[2025-05-22 23:59:43] INFO: Transakcja 0x50b28864bdfab89537a28fadc75696f1c03e507802247a50de6d39282609a9b4 niedawno widziana, pomijam.
+[2025-05-22 23:59:43] INFO: Transakcja 0x50b28864bdfab89537a28fadc75696f1c03e507802247a50de6d39282609a9b4 niedawno widziana, pomijam.
+[2025-05-22 23:59:43] INFO: ⏳ Transakcja 0x84e430728d183e6b31bffff76db0030bfd5c224a704f20baa309d1408aa9eb84 wciąż w mempoolu. Próba 1/4
+[2025-05-22 23:59:45] INFO: Transakcja 0xbc7f63a730f8a42ca82beca87d65b4ca4c01db4f81f512c8010dcb571f5bde75 niedawno widziana, pomijam.
+[2025-05-22 23:59:45] INFO: Transakcja 0xbc7f63a730f8a42ca82beca87d65b4ca4c01db4f81f512c8010dcb571f5bde75 niedawno widziana, pomijam.
+[2025-05-22 23:59:45] INFO: Transakcja 0xbc7f63a730f8a42ca82beca87d65b4ca4c01db4f81f512c8010dcb571f5bde75 niedawno widziana, pomijam.
+[2025-05-22 23:59:45] INFO: Transakcja 0xbc7f63a730f8a42ca82beca87d65b4ca4c01db4f81f512c8010dcb571f5bde75 niedawno widziana, pomijam.
+[2025-05-22 23:59:45] INFO: Transakcja 0xbc7f63a730f8a42ca82beca87d65b4ca4c01db4f81f512c8010dcb571f5bde75 niedawno widziana, pomijam.
+[2025-05-22 23:59:45] INFO: Transakcja 0xbc7f63a730f8a42ca82beca87d65b4ca4c01db4f81f512c8010dcb571f5bde75 niedawno widziana, pomijam.
+[2025-05-22 23:59:45] INFO: Transakcja 0xbc7f63a730f8a42ca82beca87d65b4ca4c01db4f81f512c8010dcb571f5bde75 niedawno widziana, pomijam.
+[2025-05-22 23:59:46] INFO: Transakcja 0x5243844977f019ee9cb2d18979a7b57586db15798724c4cb5ec7bdb1de73bd9d niedawno widziana, pomijam.
+[2025-05-22 23:59:47] INFO: Transakcja 0xb12736d5b5b20fd5a0739abe5d25df3e5f18ed72bb5c8f19dc068719e33e40dd niedawno widziana, pomijam.
+[2025-05-22 23:59:47] INFO: Transakcja 0xb12736d5b5b20fd5a0739abe5d25df3e5f18ed72bb5c8f19dc068719e33e40dd niedawno widziana, pomijam.
+[2025-05-22 23:59:47] INFO: Transakcja 0xb12736d5b5b20fd5a0739abe5d25df3e5f18ed72bb5c8f19dc068719e33e40dd niedawno widziana, pomijam.
+[2025-05-23 00:00:06] INFO: ✅ Transfer tokenu: 0x4b87239d57754cb315ace881f5cf2b279ea763b8 → 0x2b3bf74b29f59fb8dda41cf3d6a8da28cf8e7921, TX: 0xb0a657fafe3905b89c406fd2fa56070148fe4a8ea50ca6939968443ce710866f, kwota: 25.760867
+[2025-05-23 00:00:07] INFO: ⏳ Transakcja 0xb2a4ee32b7ff604e275802a6ff6d75754a41726acea95d6e496c9985fad3e158 wciąż w mempoolu. Próba 1/4
+[2025-05-23 00:00:10] INFO: Transakcja 0xd0bbe0d8087f51faf174124d444790015b0c8979a8897f5839f6f5dbbd2ddff6 niedawno widziana, pomijam.
+[2025-05-23 00:00:11] INFO: Transakcja 0x10339db3e983a2fd2bfb3c25e7b8b651679eedba79aa1c6b793bb44a74748b8f niedawno widziana, pomijam.
+[2025-05-23 00:00:11] INFO: Transakcja 0x10339db3e983a2fd2bfb3c25e7b8b651679eedba79aa1c6b793bb44a74748b8f niedawno widziana, pomijam.
+[2025-05-23 00:00:11] INFO: Transakcja 0x10339db3e983a2fd2bfb3c25e7b8b651679eedba79aa1c6b793bb44a74748b8f niedawno widziana, pomijam.
+[2025-05-23 00:00:11] INFO: Transakcja 0x10339db3e983a2fd2bfb3c25e7b8b651679eedba79aa1c6b793bb44a74748b8f niedawno widziana, pomijam.
+[2025-05-23 00:00:12] INFO: ⏳ Transakcja 0xddc3b947960fb91583ff2b4dae41739d87b6635bd429ab00a80f94433382ba47 wciąż w mempoolu. Próba 1/4
+[2025-05-23 00:00:14] INFO: Transakcja 0x6df5a2f8af449e163ffcd20d0910965a56452af46c718c1e02e902aef281724e niedawno widziana, pomijam.
+[2025-05-23 00:00:15] INFO: ⏳ Transakcja 0xe3febdc91b20e57aaedbd7c1837e8fae6b1d6dd2ef7dc759fcb003188c19c60b wciąż w mempoolu. Próba 1/4
+[2025-05-23 00:00:16] INFO: ⏳ Transakcja 0xe3febdc91b20e57aaedbd7c1837e8fae6b1d6dd2ef7dc759fcb003188c19c60b wciąż w mempoolu. Próba 2/4
+[2025-05-23 00:00:17] INFO: ⏳ Transakcja 0xe3febdc91b20e57aaedbd7c1837e8fae6b1d6dd2ef7dc759fcb003188c19c60b wciąż w mempoolu. Próba 3/4
+[2025-05-23 00:00:19] INFO: ⏳ Transakcja 0x446a220cb3d3557e97d0b988790c499b079d0e509d2eb1e619316c63ed489f1c wciąż w mempoolu. Próba 1/4
+[2025-05-23 00:00:20] INFO: ⏳ Transakcja 0xe58d76dcc7cc16dfaf794bd26e069281ae11fdd4f3b4285e5d3d1c03024bdcfb wciąż w mempoolu. Próba 1/4

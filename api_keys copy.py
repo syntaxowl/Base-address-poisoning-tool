@@ -1,0 +1,18 @@
+OKLINK_APIKEY=''
+PRIVATEMM = ''
+#INFURA =''
+BASESCANAPI =  ''
+#INFURA_HTTP = '' #1
+INFURA_WSS = '' #1
+INFURA =''
+
+INFURA_HTTP = '' #2 dane dla testów
+#INFURA_WSS = '' #2
+
+'''
+OKLINK_APIKEY = ''
+PRIVATEMM = ''
+BASESCANAPI = ''
+INFURA = ''
+INFURA_WSS = '' #2
+'''

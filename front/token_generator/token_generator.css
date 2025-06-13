@@ -1,0 +1,172 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.input-section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input[type="text"], input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.options {
+    margin-top: 10px;
+}
+
+.options label {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.code-section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.code-section h2 {
+    margin-bottom: 10px;
+}
+
+.tab-headers .tab-button {
+    margin-right: 10px; /* Odstęp po prawej stronie każdego przycisku */
+}
+
+textarea {
+    width: 100%;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+    font-family: monospace;
+    background: #f8f8f8;
+}
+
+
+#address {
+    height: 34px;
+    font-size: 14px;
+    line-height: 1.4;
+    padding: 6px 10px;
+    resize: none;
+    overflow: hidden;
+}
+
+
+
+.button-group {
+    display: flex;
+    justify-content: space-between; /* Rozsuwa przyciski na boki */
+    gap: 10px; /* Odstęp między przyciskami */
+    margin-bottom: 10px;
+    flex-wrap: wrap; /* Jeśli za wąsko, przyciski schodzą do nowej linii */
+}
+
+.button-group button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    flex: 1; /* Opcjonalnie: każdy przycisk zajmuje tyle samo miejsca */
+    max-width: 250px; /* Opcjonalnie: ogranicza szerokość */
+    text-align: center;
+}
+
+.button-group button:hover {
+    background-color: #0056b3;
+}
+
+
+.code-section pre {
+    max-height: 400px;
+    overflow: auto; /* <- Dodaj jeśli nie ma */
+    background: #f8f8f8;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: monospace;
+    white-space: pre;
+    box-sizing: border-box;
+    margin: 0;           /* <- Zapobiega wypychaniu */
+}
+
+#address {
+    background: #f8f8f8;
+    font-family: monospace;
+    font-size: 1em;             /* Większa czcionka */
+    line-height: 1.4;
+    padding: 10px;              /* Mniej paddingu = mniejsze pole */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    resize: none;
+    overflow: auto;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 5px;         /* Mniej odstępu pod spodem = "wyżej" */
+    white-space: pre-wrap;
+    min-height: 34px;           /* Dla bezpieczeństwa – niech nie będzie za małe */
+    max-height: 80px;           /* Ograniczenie wysokości */
+}
+
+
+.code-section code {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.4;
+    word-break: break-word;
+    white-space: pre-wrap; /* <- To sprawia, że długie linie nie wypychają */
+}
+
+
+
+
+pre[class*="language-"] {
+    margin: 0 !important;
+}
+
+
+pre[class*="language-"], code[class*="language-"] {
+    font-size: 0.8em; /* Zmniejsza rozmiar czcionki do 80% domyślnego */
+}
+
+
+pre.language-solidity, code.language-solidity {
+    font-size: 0.8em;
+}
+
+
+.input-section input[type="text"],
+.input-section input[type="number"] {
+    width: calc(100% - 10px);
+}
+

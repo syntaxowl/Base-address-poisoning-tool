@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pola tekstowe</title>
+    <link rel="stylesheet" href="config/config.css">
+    
+    <script type="text/javascript" src="/eel.js"></script>
+    <script type="text/javascript" src="config.js" defer></script>
+</head>
+<body>
+    <div class="pola-kontener">
+        <label for="klucz-api">Klucz API OKLink:</label>
+        <input type="text" id="klucz-api" class="pole-tekstowe" placeholder="Wklej klucz API oklink">
+        
+        <label for="klucz-prywatny">Klucz prywatny portfela:</label>
+        <input type="text" id="klucz-prywatny" class="pole-tekstowe" placeholder="Wklej klucz prywatny">
+        
+        <label for="base-key">API Klucz  BaseScan :</label>
+        <input type="text" id="base-key" class="pole-tekstowe" placeholder="Wklej klucz Base">
+
+        <label for="infura">RPC:</label>
+        <input type="text" id="infura" class="pole-tekstowe" placeholder="Wklej klucz infura">
+        <button id="save-button">Zapisz klucze</button>
+        <div id="save-message" style="margin-top: 10px; color: green; display: none;">
+             Klucze zostały zapisane pomyślnie.
+        </div>
+    </div>
+    
+</body>
+</html>

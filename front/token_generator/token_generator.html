@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>  
+    <meta charset="UTF-8">
+    <title>Generator Tokenów</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="token_generator/token_generator.css">
+    <script type="text/javascript" src="/eel.js"></script>
+    <link href="prism.css" rel="stylesheet"  />
+    
+
+
+</head>
+<body>
+    <div class="container">
+        <h1>Generator kodu tokena Solidity</h1>
+        <div class="input-section">
+            <label>Nazwa tokena:</label>
+            <input type="text" id="name" value="USDC" oninput="updateCode()">
+            
+            <label>Symbol tokena:</label>
+            <input type="text" id="symbol" value="USDC" oninput="updateCode()">
+            
+            <label>Początkowa podaż:</label>
+            <input type="text" id="initialSupply" value="1000000" oninput="this.value = this.value.replace(/[^0-9]/g, ''); updateCode();">
+            
+            <div class="options">
+                <label><input type="checkbox" id="mintable" onchange="updateCode()"> Mintable</label>
+                <label><input type="checkbox" id="burnable" onchange="updateCode()"> Burnable</label>
+                <label><input type="checkbox" id="pausable" onchange="updateCode()"> Pausable</label>
+            </div>
+        </div>
+        <div class="code-section">
+            <h2>Wygenerowany kod:</h2>
+            <div class="button-group">
+                <button id="save" class="btn btn-secondary">Save</button>
+                <button id="deploy" class="btn btn-primary" >Deploy</button>
+                <button id="verif" class="btn btn-thirdary" >Verify</button>
+            </div>
+            <textarea id="address" readonly></textarea>
+            <pre><code id="codeOutput" class="language-solidity"></code></pre>
+        </div>
+    </div>
+    <script type="text/javascript" src="token_generator.js" defer></script>
+    <script src="prism.js" defer></script>
+</body>
+</html>

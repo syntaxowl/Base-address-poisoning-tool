@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitor Transferów</title>
+    <link rel="stylesheet" href="/monitor/monitor.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    
+
+    <div class="container">
+        <h1>Monitor Transferów</h1>
+
+        <form aria-labelledby="monitor-settings">
+            <div class="form-group">
+                <label for="attack_type">Wybierz typ ataku:</label>
+                <select id="attack_type" onchange="attack_choose()" aria-describedby="attack_type_desc">
+                    <option value="zero">Zero-Value</option>
+                    <option value="fake_token">Fake Token</option>
+                </select>
+                <small id="attack_type_desc" class="form-text">Wybierz typ ataku do monitorowania.</small>
+            </div>
+
+            <div class="form-group">
+                <label for="mode">Wybierz tryb:</label>
+                <select id="mode" onchange="mode_choose()" aria-describedby="mode_desc">
+                    <option value="monitor_to">Monitor To (CSV)</option>
+                    <option value="monitor_from_vanity">Monitor From Vanity (TXT)</option>
+                    <option value="monitor_from_to">Monitor From-To (CSV)</option>
+                </select>
+                <small id="mode_desc" class="form-text">Wybierz tryb monitorowania transferów.</small>
+            </div>
+
+            <div id="txtInputs" class="form-group" aria-hidden="true">
+                <label for="txtFile" class="custom-file-label" id="txtFileLabel">Wybierz plik TXT</label>
+                <input type="file" id="txtFile" accept=".txt" aria-describedby="txtFile_desc">
+                <small id="txtFile_desc" class="form-text">Wczytaj plik TXT z danymi vanity.</small>
+            </div>
+
+            <div id="fileInputs" class="form-group" aria-hidden="true">
+                <label for="csvFile" class="custom-file-label" id="csvFileLabel">Wybierz plik CSV</label>
+                <input type="file" id="csvFile" accept=".csv" aria-describedby="csvFile_desc">
+                <small id="csvFile_desc" class="form-text">Wczytaj plik CSV z danymi transferów.</small>
+            </div>
+
+            <div class="button-group">
+                <button type="button" onclick="startMonitoring()">Start</button>
+                <button type="button" onclick="stopMonitoring()">Stop</button>
+            </div>
+        </form>
+
+        <button id="toggle-log" onclick="toggleLogPanel()" aria-expanded="false">Pokaż logi</button>
+    </div>
+
+    <div id="log-panel" aria-hidden="true">
+        <div class="log-panel-handle" role="button" tabindex="0" aria-label="Przeciągnij, aby zmienić rozmiar panelu logów"></div>
+        <div class="log-tabs" role="tablist">
+            <button class="log-tab active" data-tab="all" onclick="showLogs('all')" role="tab" aria-selected="true" aria-controls="logs-all">Wszystkie</button>
+            <button class="log-tab" data-tab="matched" onclick="showLogs('matched')" role="tab" aria-selected="false" aria-controls="logs-matched">Znalezione</button>
+            <button class="log-tab" data-tab="sent_tx" onclick="showLogs('sent_tx')" role="tab" aria-selected="false" aria-controls="logs-sent_tx">Wysłane</button>
+            <i class="fas fa-trash" onclick="clearLogs()" title="Wyczyść logi aktywnej zakładki" role="button" aria-label="Wyczyść logi aktywnej zakładki" tabindex="0"></i>
+        </div>
+        
+        <div id="logs-container">
+            <pre id="logs-all" class="log-content" role="region" aria-live="polite"></pre>
+            <pre id="logs-matched" class="log-content hidden" role="region" aria-live="polite"></pre>
+            <pre id="logs-sent_tx" class="log-content hidden" role="region" aria-live="polite"></pre>
+            <hr class="separator">
+            <div class="spacer"></div>
+        </div>
+    </div>
+    
+    
+
+    <script src="eel.js"></script>
+    <script src="monitor.js"></script>
+</body>
+</html>

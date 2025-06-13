@@ -1,0 +1,78 @@
+
+.tab-container {
+    width: 80%;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+/*
+.tab-headers {
+    display: flex;
+    border-bottom: 1px solid #ccc;
+}
+
+.tab-button {
+    padding: 10px 20px;
+    border: none;
+    background: #f1f1f1;
+    cursor: pointer;
+    outline: none;
+}
+
+.tab-button.active {
+    background: #ddd;
+    border-bottom: 2px solid #007bff;
+}
+*/
+.tab-button:hover {
+    background: #e0e0e0;
+}
+
+.tab-content {
+    padding: 20px;
+}
+
+.tab-pane {
+    display: none;
+}
+
+.tab-pane.active {
+    display: block;
+}
+
+.tab-headers {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+    justify-content: flex-start;
+    gap: 5px;
+    background: #f5f5f5;
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+}
+
+.tab-headers .tab-button {
+    all: unset;
+    display: inline-block !important;
+    padding: 8px 16px;
+    background: #e0e0e0;
+    border-radius: 5px 5px 0 0;
+    font-weight: bold;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    white-space: nowrap;
+    min-width: 80px;
+    flex-shrink: 1;
+    transition: background 0.2s ease-in-out;
+    border-bottom: 4px solid transparent; /* linia u dołu, niewidoczna domyślnie */
+}
+
+.tab-headers .tab-button:hover {
+    background: #d0d0d0;
+}
+
+.tab-headers .tab-button.active {
+    background: #ffffff;
+    border-bottom-color: #007bff; /* niebieska linia u dołu aktywnego przycisku */
+}
+

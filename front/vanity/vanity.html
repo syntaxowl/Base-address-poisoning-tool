@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanity ETH Generator</title>
+    <link rel="stylesheet" href="vanity/vanity.css">
+    <style>
+        .custom-file-label {
+            cursor: pointer;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+        input[type="file"] {
+            display: none;
+        }
+        #stats-container {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Vanity ETH Generator</h1>
+
+        <label for="mode">Wybierz tryb:</label>
+        <select id="mode" onchange="toggleInputs()">
+            <option value="manual">Manualny (Prefiks/Sufiks)</option>
+            <option value="address">Adres + długości</option>
+            <option value="file">Plik CSV/TXT</option>
+        </select>
+
+        <div id="manualInputs">
+            <input type="text" id="prefix" placeholder="Prefiks (np. 0x1234)" oninput="this.value = this.value.replace(/[^0-9a-fA-F]/g, '')">
+            <input type="text" id="suffix" placeholder="Sufiks (np. abcd)" oninput="this.value = this.value.replace(/[^0-9a-fA-F]/g, '')">
+
+        </div>
+
+        <div id="addressInputs" style="display: none;">
+            <input type="text" id="address" placeholder="Adres ETH (np. 0x123...456)" oninput="this.value = '0x' + this.value.replace(/[^0-9a-fA-F]/g, '')">
+            <input type="text" id="prefix_length" placeholder="Długość prefiksu" pattern="[0-7]" maxlength="1" oninput="this.value = this.value.replace(/[^0-7]/g, '')">
+            <input type="text" id="suffix_length" placeholder="Długość sufiksu" pattern="[0-7]" maxlength="1" oninput="this.value = this.value.replace(/[^0-7]/g, '')">
+        </div>
+
+        <div id="fileInputs" style="display: none;">
+            <input type="file" id="file" accept=".txt, .csv">
+            <label for="file" id="file-label" class="custom-file-label">Wybierz plik</label>
+            <input type="text" id="file_prefix_length" placeholder="Długość prefiksu" pattern="[0-7]" maxlength="1" oninput="this.value = this.value.replace(/[^0-7]/g, '')">
+            <input type="text" id="file_suffix_length" placeholder="Długość sufiksu" pattern="[0-7]" maxlength="1" oninput="this.value = this.value.replace(/[^0-7]/g, '')">
+        </div>
+
+        <button onclick="startGeneration()">Start</button>
+        <button onclick="stopGeneration()" id="stop_button" >Stop</button>
+
+        <div id="status"></div>
+        <div id="stats-container">Statystyki pojawią się tutaj...</div>
+        <div id="result"></div>
+    </div>
+
+   
+        
+
+    <script src="vanity.js"></script>
+    <script type="text/javascript" src="/eel.js"></script>
+</body>
+</html>

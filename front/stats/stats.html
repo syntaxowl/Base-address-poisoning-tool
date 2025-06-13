@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Statystyki logów</title>
+    <link rel="stylesheet" href="/stats/stats.css">
+    <script src="/eel.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts@3.55.1/dist/apexcharts.min.js"></script>
+    <script src="stats.js"></script>
+</head>
+<body>
+    <div class="control-panel">
+        <div class="control-row">
+            <div class="control-group">
+                <label for="period">Okres:</label>
+                <select id="period">
+                    <option value="day">Dzień</option>
+                    <option value="week">Tydzień</option>
+                    <option value="month">Miesiąc</option>
+                    <option value="threeMonths">3 miesiące</option>
+                    <option value="custom">Niestandardowy</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="interval">Interwał:</label>
+                <select id="interval">
+                    <option value="hour">Godzina</option>
+                    <option value="day">Dzień</option>
+                    <option value="week">Tydzień</option>
+                    <option value="month">Miesiąc</option>
+                </select>
+            </div>
+        </div>
+        
+        <div class="control-row">
+            <div class="control-group date-control" style="display: none;">
+                <label for="after">Od:</label>
+                <input type="datetime-local" id="after">
+            </div>
+            
+            <div class="control-group date-control" style="display: none;">
+                <label for="before">Do:</label>
+                <input type="datetime-local" id="before">
+            </div>
+            
+    
+        </div>        
+        <button onclick="renderChart()" id="refreshChart">Odśwież</button>
+
+        
+    </div>
+    
+    <div id="chartContainer">
+        <div id="logsChart"></div>
+    </div>
+</body>
+</html>
